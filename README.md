@@ -1,6 +1,6 @@
-# Movie_Franchise_and_Profit
+# Movie and Swear Words
 
-This is where the magic happens. 
+# This is where the magic happens. 
 
 Questions:
 - Are sequels worth investing/making in terms of process/critic score?
