@@ -1,33 +1,33 @@
-title,Swear_Count,Fuck_Count,Shit_Count,Bitch_Count,Profanity
-Apocalypse Now,7,1,4,2,True
-Barry Lyndon,0,0,0,0,False
-"Battle of Algiers, The",0,0,0,0,False
-Beasts of No Nation,0,0,0,0,False
-Braveheart,0,0,0,0,False
-Cold Mountain,4,0,4,0,True
-Coriolanus,0,0,0,0,False
-Courage Under Fire,0,0,0,0,[]
-"Deer Hunter, The",7,5,2,0,True
-Defiance,8,0,8,0,True
-Four Feathers,0,0,0,0,False
-From Here to Eternity,0,0,0,0,False
-Full Metal Jacket,0,0,0,0,False
-Fury,0,0,0,0,False
-Hotel Rwanda,2,2,0,0,True
-Inglourious Basterds,11,9,1,1,True
-Jeux Interdits,0,0,0,0,False
-"Last of the Mohicans, The",0,0,0,0,False
-"Last Samurai, The",1,0,1,0,True
-"Men Who Stare at Goats, The",2,2,0,0,True
-"Patriot, The",0,0,0,0,False
-Pearl Harbor,14,4,8,2,True
-"Pianist, The",2,1,1,0,True
-Platoon,55,19,33,3,True
-Saving Private Ryan,10,7,3,0,True
-Schindler's List,1,1,0,0,True
-Three Kings,20,12,8,0,True
-Three Kings (Spoils of War),3,1,1,1,True
-Tropic Thunder,15,8,6,1,True
-Troy,0,0,0,0,False
-Valkyrie,1,0,1,0,True
-War Horse,0,0,0,0,False
+title,Swear_Count,Fuck_Count,Shit_Count,Bitch_Count,Profanity,Genre
+Apocalypse Now,7,1,4,2,True,War
+Barry Lyndon,0,0,0,0,False,War
+"Battle of Algiers, The",0,0,0,0,False,War
+Beasts of No Nation,0,0,0,0,False,War
+Braveheart,0,0,0,0,False,War
+Cold Mountain,4,0,4,0,True,War
+Coriolanus,0,0,0,0,False,War
+Courage Under Fire,0,0,0,0,[],War
+"Deer Hunter, The",7,5,2,0,True,War
+Defiance,8,0,8,0,True,War
+Four Feathers,0,0,0,0,False,War
+From Here to Eternity,0,0,0,0,False,War
+Full Metal Jacket,0,0,0,0,False,War
+Fury,0,0,0,0,False,War
+Hotel Rwanda,2,2,0,0,True,War
+Inglourious Basterds,11,9,1,1,True,War
+Jeux Interdits,0,0,0,0,False,War
+"Last of the Mohicans, The",0,0,0,0,False,War
+"Last Samurai, The",1,0,1,0,True,War
+"Men Who Stare at Goats, The",2,2,0,0,True,War
+"Patriot, The",0,0,0,0,False,War
+Pearl Harbor,14,4,8,2,True,War
+"Pianist, The",2,1,1,0,True,War
+Platoon,55,19,33,3,True,War
+Saving Private Ryan,10,7,3,0,True,War
+Schindler's List,1,1,0,0,True,War
+Three Kings,20,12,8,0,True,War
+Three Kings (Spoils of War),3,1,1,1,True,War
+Tropic Thunder,15,8,6,1,True,War
+Troy,0,0,0,0,False,War
+Valkyrie,1,0,1,0,True,War
+War Horse,0,0,0,0,False,War
