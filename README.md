@@ -1,4 +1,6 @@
 # Movie Magic and The "Magical" Swear Words
+![Profanity in Film](https://nofilmschool.com/sites/default/files/styles/article_1500/public/wow.jpg?itok=6r6h97Z1)
+
 Profanity in media is nothing groundbreaking. In fact, profanity has become such a commonplace in media that Netflix even has a [new comedy series "History of Swear Words"](https://www.netflix.com/title/81305757)dedicated to explaning and uncovering the origin and impacts of the common foulmouthery. 
 
 But what of these "magical words" and their place in big screen? Has the increased frequecy of spoken vulgarities become an indicator of a more popular, more trendy, more succesful film? We seek to solve this mystery!
