@@ -1,9 +1,14 @@
-# Movie and Swear Words
+# Movies and The "Magical" Swear Words
+Profanity in media is nothing groundbreaking. In fact, profanity has become such a commonplace in media that Netflix even has a new comedy series "History of Swear Words" dedicated to explaning and uncovering the origin and impacts of the common foulmouthery. But what of these "magical words" and their place in big screen? Has the increased frequecy of spoken vulgarities become an indicator of a more popular, more trendy, more succesful film? We seek to uncover this mystery!
 
-# This is where the magic happens. 
+## This is where the magic happens
 
-Questions:
-- Are sequels worth investing/making in terms of process/critic score?
-- Avg Profit Margins/Budget by Genres/keywords
-- What is the probability of a movie getting a reboot/sequel/prequel/franchise/series/etc.?
-- What are the genres/keywords/movie traits to certain movies that get reboot/sequel/ prequel/franchise/series/ etc.?
+### Questions:
+-Are the number of swear words in a movie correlated to the movie's success (i.e. profit/rating/box office/etc.)?
+-Can we predict how many swear words are in the movie based on different factors of the movie:
+  -Director
+  -Genre
+  -Rating
+  -Year
+  -Profit
+
