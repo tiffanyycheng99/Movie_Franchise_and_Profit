@@ -4,11 +4,11 @@ Profanity in media is nothing groundbreaking. In fact, profanity has become such
 ## This is where the magic happens
 
 ### Questions:
--Are the number of swear words in a movie correlated to the movie's success (i.e. profit/rating/box office/etc.)?
--Can we predict how many swear words are in the movie based on different factors of the movie:
-  -Director
-  -Genre
-  -Rating
-  -Year
-  -Profit
+* Are the number of swear words in a movie correlated to the movie's success (i.e. profit/rating/box office/etc.)?
+* Can we predict how many swear words are in the movie based on different factors of the movie:
+  *Director
+  *Genre
+  *Rating
+  *Year
+  *Profit
 
