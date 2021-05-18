@@ -10,9 +10,9 @@ But what of these "magical words" and their place in big screen? Has the increas
 ### Questions:
 * Are the number of swear words in a movie correlated to the movie's success (i.e. profit/rating/box office/etc.)?
 * Can we predict how many swear words are in the movie based on different factors of the movie:
-  *Director
-  *Genre
-  *Rating
-  *Year
-  *Profit
+  * Director
+  * Genre
+  * Rating
+  * Year
+  * Profit
 
