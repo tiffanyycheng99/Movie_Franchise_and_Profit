@@ -1,0 +1,337 @@
+title,Swear_Count,Fuck_Count,Shit_Count,Bitch_Count,Profanity,Genre
+15 Minutes,17,13,4,0,True,Action
+2012,2,1,1,0,True,Action
+30 Minutes or Less,176,139,34,3,True,Action
+48 Hrs.,33,20,11,2,True,Action
+A Most Violent Year,30,27,3,0,True,Action
+Above the Law,18,15,3,0,True,Action
+"Abyss, The",2,1,1,0,True,Action
+Air Force One,10,9,1,0,False,Action
+Alien,1,1,0,0,True,Action
+Alien 3,4,4,0,0,True,Action
+Alien vs. Predator,8,7,1,0,True,Action
+Alien: Resurrection,0,0,0,0,[],Action
+Aliens,19,16,2,1,True,Action
+Alone in the Dark,1,1,0,0,True,Action
+American Outlaws,0,0,0,0,[],Action
+American Shaolin: King of Kickboxers II,0,0,0,0,[],Action
+American Sniper,44,28,15,1,True,Action
+Apocalypse Now,28,17,9,2,True,Action
+Arctic Blue,19,16,3,0,True,Action
+Armageddon,10,4,6,0,True,Action
+Army of Darkness,1,0,0,1,True,Action
+Assassins,59,54,4,1,True,Action
+Austin Powers - International Man of Mystery,0,0,0,0,[],Action
+Austin Powers - The Spy Who Shagged Me,1,0,0,1,True,Action
+Avatar,8,1,5,2,True,Action
+"Avengers, The",0,0,0,0,[],Action
+"Avengers, The (2012)",17,11,6,0,True,Action
+Back to the Future,0,0,0,0,[],Action
+Backdraft,36,25,8,3,True,Action
+Bad Boys,45,31,14,0,True,Action
+Bad Country,39,32,6,1,True,Action
+Batman,1,0,1,0,True,Action
+Batman 2,6,1,4,1,True,Action
+Batman and Robin,0,0,0,0,[],Action
+Batman Begins,0,0,0,0,[],Action
+Batman Forever,0,0,0,0,[],Action
+Batman Returns,0,0,0,0,[],Action
+Battle: Los Angeles,0,0,0,0,[],Action
+Black Panther,7,0,7,0,True,Action
+Black Rain,5,1,4,0,True,Action
+Blade,12,8,4,0,True,Action
+Blade II,32,30,2,0,True,Action
+Blade Runner,5,3,2,0,True,Action
+Blade: Trinity,0,0,0,0,[],Action
+"Book of Eli, The",14,13,1,0,True,Action
+Boondock Saints 2: All Saints Day,0,0,0,0,[],Action
+"Bounty Hunter, The",16,12,3,1,True,Action
+"Bourne Identity, The",38,24,14,0,True,Action
+"Bourne Supremacy, The",0,0,0,0,[],Action
+"Bourne Ultimatum, The",1,1,0,0,True,Action
+Braveheart,0,0,0,0,[],Action
+Breakdown,16,15,1,0,True,Action
+Broken Arrow,2,2,0,0,True,Action
+Buffy the Vampire Slayer,6,2,2,2,True,Action
+Cars 2,0,0,0,0,[],Action
+Catwoman,0,0,0,0,[],Action
+Cellular,10,1,8,1,True,Action
+Chaos,11,6,5,0,True,Action
+Charlie's Angels,3,2,1,0,True,Action
+"Chronicles of Narnia: The Lion, the Witch and the Wardrobe",0,0,0,0,[],Action
+Cirque du Freak: The Vampire's Assistant,0,0,0,0,[],Action
+Clash of the Titans,0,0,0,0,[],Action
+Cliffhanger,23,19,2,2,True,Action
+Code of Silence,18,11,7,0,True,Action
+Collateral,0,0,0,0,[],Action
+Collateral Damage,17,11,5,1,True,Action
+Colombiana,10,6,2,2,True,Action
+Commando,0,0,0,0,[],Action
+Conan the Barbarian,0,0,0,0,[],Action
+Constantine,10,1,9,0,True,Action
+Courage Under Fire,0,0,0,0,[],Action
+Cowboys & Aliens,0,0,0,0,[],Action
+Cradle 2 the Grave,32,21,9,2,True,Action
+Crank,46,23,15,8,True,Action
+"Crouching Tiger, Hidden Dragon",0,0,0,0,[],Action
+"Crow Salvation, The",31,24,4,3,True,Action
+"Crow, The",27,21,4,2,True,Action
+"Crow: City of Angels, The",0,0,0,0,[],Action
+Crying Game,64,58,2,4,True,Action
+"Dark Knight Rises, The",0,0,0,0,[],Action
+"Dark Knight, The",0,0,0,0,[],Action
+Darkman,9,6,0,3,True,Action
+Dawn of the Dead,5,2,3,0,True,Action
+Deadpool,19,15,4,0,True,Action
+"Debt, The",22,21,1,0,True,Action
+Deep Cover,32,25,5,2,True,Action
+Deep Rising,22,3,18,1,True,Action
+Defiance,15,6,9,0,True,Action
+Die Hard,26,22,4,0,True,Action
+Die Hard 2,45,38,7,0,True,Action
+Dragonslayer,0,0,0,0,[],Action
+Drive,41,41,0,0,True,Action
+Drive Angry,53,44,4,5,True,Action
+Dune,0,0,0,0,[],Action
+Eagle Eye,22,17,5,0,True,Action
+Eight Legged Freaks,1,1,0,0,True,Action
+El Mariachi,0,0,0,0,[],Action
+Enemy of the State,18,18,0,0,True,Action
+Entrapment,21,17,3,1,True,Action
+Equilibrium,0,0,0,0,[],Action
+Escape From L.A.,6,2,4,0,True,Action
+Escape From New York,8,3,3,2,True,Action
+Evil Dead II: Dead by Dawn,0,0,0,0,[],Action
+Executive Decision,0,0,0,0,[],Action
+Face Off,13,10,3,0,True,Action
+Fair Game,20,18,1,1,True,Action
+Fantastic Four,0,0,0,0,[],Action
+Feast,19,13,5,1,True,Action
+"Fifth Element, The",9,7,2,0,True,Action
+Fight Club,40,31,7,2,True,Action
+Flash Gordon,0,0,0,0,[],Action
+Freddy vs. Jason,42,5,2,35,True,Action
+"French Connection, The",6,2,4,0,True,Action
+From Dusk Till Dawn,70,44,25,1,True,Action
+"Fugitive, The",0,0,0,0,[],Action
+Fury,0,0,0,0,[],Action
+G.I. Jane,15,8,6,1,True,Action
+G.I. Joe: The Rise of Cobra,0,0,0,0,[],Action
+Gamer,39,28,10,1,True,Action
+Get Carter,4,1,3,0,True,Action
+Get Shorty,0,0,0,0,[],Action
+"Getaway, The",0,0,0,0,[],Action
+"Ghost and the Darkness, The",4,2,1,1,True,Action
+Ghost Rider,41,38,3,0,True,Action
+Ghost Ship,15,10,4,1,False,Action
+Ghostbusters 2,1,0,1,0,True,Action
+Gladiator,0,0,0,0,[],Action
+Godzilla,0,0,0,0,[],Action
+Gone in 60 Seconds,21,7,14,0,True,Action
+Guardians of the Galaxy Vol 2,0,0,0,0,[],Action
+Hackers,8,1,7,0,True,Action
+Hancock,21,18,3,0,True,Action
+Hanna,7,5,2,0,True,Action
+Hard Rain,4,2,2,0,True,Action
+Hard to Kill,21,15,5,1,True,Action
+Harry Potter and the Half-Blood Prince,0,0,0,0,[],Action
+Heat,41,39,1,1,True,Action
+Heavy Metal,1,0,1,0,True,Action
+Hellboy,0,0,0,0,[],Action
+Hellboy 2: The Golden Army,0,0,0,0,[],Action
+Highlander,1,0,0,1,True,Action
+Highlander: Endgame,0,0,0,0,[],Action
+Hostage,42,33,8,1,True,Action
+How to Train Your Dragon 2,0,0,0,0,[],Action
+Hudson Hawk,16,11,4,1,True,Action
+"Hunt for Red October, The",3,3,0,0,True,Action
+I Am Number Four,0,0,0,0,[],Action
+"I, Robot",1,0,1,0,True,Action
+Inception,0,0,0,0,[],Action
+"Incredibles, The",0,0,0,0,[],Action
+Independence Day,2,2,0,0,True,Action
+Indiana Jones and the Last Crusade,0,0,0,0,[],Action
+Indiana Jones and the Raiders of the Lost Ark,0,0,0,0,[],Action
+Indiana Jones and the Temple of Doom,0,0,0,0,[],Action
+Indiana Jones IV,0,0,0,0,[],Action
+Inglourious Basterds,28,26,1,1,True,Action
+Innerspace,0,0,0,0,[],Action
+"Island, The",16,16,0,0,True,Action
+"Italian Job, The",7,4,3,0,True,Action
+Jade,0,0,0,0,[],Action
+Jason X,24,14,7,3,True,Action
+Jimmy and Judy,107,89,16,2,True,Action
+John Wick,23,22,1,0,True,Action
+Judge Dredd,6,5,0,1,True,Action
+Jurassic Park,0,0,0,0,[],Action
+Jurassic Park III,0,0,0,0,[],Action
+Jurassic Park: The Lost World,0,0,0,0,[],Action
+Kill Bill Volume 1 & 2,0,0,0,0,[],Action
+King Kong,0,0,0,0,[],Action
+"Kingdom, The",14,12,2,0,True,Action
+Kung Fu Panda,0,0,0,0,[],Action
+Lake Placid,7,7,0,0,True,Action
+Land of the Dead,27,22,5,0,True,Action
+"Last Boy Scout, The",126,103,14,9,True,Action
+"Last Samurai, The",2,1,1,0,True,Action
+Legion,36,31,3,2,True,Action
+"LEGO Movie, The",0,0,0,0,[],Action
+Les Tontons Flingueurs,0,0,0,0,[],Action
+Lethal Weapon,0,0,0,0,[],Action
+Lethal Weapon 4,0,0,0,0,[],Action
+Logan,30,23,7,0,True,Action
+Logan's Run,0,0,0,0,[],Action
+"Long Kiss Goodnight, The",81,71,5,5,True,Action
+Looper,27,24,3,0,True,Action
+"Lord of the Rings: Fellowship of the Ring, The",0,0,0,0,[],Action
+Lord of the Rings: Return of the King,0,0,0,0,[],Action
+Lord of the Rings: The Two Towers,0,0,0,0,[],Action
+"Losers, The",7,1,6,0,True,Action
+Lost in Space,0,0,0,0,[],Action
+Machete,33,31,2,0,True,Action
+Machine Gun Preacher,30,21,8,1,True,Action
+Mad Max 2: The Road Warrior,0,0,0,0,[],Action
+Man in the Iron Mask,1,0,1,0,True,Action
+Man On Fire,12,10,2,0,True,Action
+"Mariachi, El",0,0,0,0,[],Action
+"Mask, The",4,0,0,4,True,Action
+Master and Commander,0,0,0,0,[],Action
+"Matrix Reloaded, The",21,20,1,0,True,Action
+"Matrix, The",5,4,1,0,True,Action
+Max Payne,1,0,1,0,True,Action
+"Mechanic, The",7,6,1,0,True,Action
+Megamind,1,0,1,0,True,Action
+Men in Black,5,0,5,0,True,Action
+Men in Black 3,1,0,1,0,True,Action
+Metro,51,36,12,3,True,Action
+Miami Vice,15,15,0,0,True,Action
+Mighty Joe Young,0,0,0,0,[],Action
+Mighty Morphin Power Rangers: The Movie,0,0,0,0,[],Action
+Minority Report,10,9,1,0,True,Action
+Mission Impossible,1,0,0,1,True,Action
+Mission Impossible II,2,0,1,1,True,Action
+"Mummy, The",1,0,1,0,True,Action
+Mystery Men,0,0,0,0,[],Action
+Natural Born Killers,41,19,15,7,True,Action
+New York Minute,1,0,1,0,True,Action
+Next,1,0,1,0,True,Action
+Nightbreed,10,9,1,0,True,Action
+Ninja Assassin,14,14,0,0,True,Action
+Oblivion,0,0,0,0,[],Action
+Outbreak,0,0,0,0,[],Action
+"Pacifier, The",0,0,0,0,[],Action
+Pandorum,23,22,1,0,True,Action
+"Patriot, The",0,0,0,0,[],Action
+Pearl Harbor,15,5,8,2,True,Action
+Perfect Creature,10,8,2,0,True,Action
+"Perfect World, A",4,0,4,0,True,Action
+Pirates of the Caribbean,0,0,0,0,[],Action
+Pirates of the Caribbean: Dead Man's Chest,0,0,0,0,[],Action
+"Planet of the Apes, The",0,0,0,0,[],Action
+Platoon,114,71,40,3,True,Action
+Point Break,45,36,8,1,True,Action
+"Postman, The",3,2,1,0,True,Action
+Predator,8,4,3,1,True,Action
+Priest,1,0,1,0,True,Action
+"Program, The",22,7,15,0,True,Action
+Pulp Fiction,88,41,39,8,True,Action
+Rambo: First Blood II: The Mission,0,0,0,0,[],Action
+Red Planet,25,22,2,1,True,Action
+Reindeer Games,39,34,5,0,True,Action
+Reservoir Dogs,119,89,23,7,True,Action
+Resident Evil,13,5,8,0,True,Action
+Return of the Apes,10,8,2,0,True,Action
+Rise of the Planet of the Apes,0,0,0,0,[],Action
+Robin Hood: Prince of Thieves,0,0,0,0,[],Action
+Robocop,0,0,0,0,[],Action
+"Rock, The",43,33,10,0,True,Action
+RocknRolla,21,17,4,0,True,Action
+Ronin,35,29,5,1,True,Action
+Rush,6,5,1,0,True,Action
+Rush Hour,15,9,6,0,True,Action
+Rush Hour 2,6,0,5,1,True,Action
+"Saint, The",1,0,1,0,True,Action
+Saving Private Ryan,23,20,3,0,True,Action
+Scarface,99,83,16,0,True,Action
+Scott Pilgrim vs the World,14,10,0,4,True,Action
+Serenity,1,1,0,0,True,Action
+Sherlock Holmes,2,1,1,0,True,Action
+Sicario,30,27,3,0,True,Action
+"Siege, The",23,16,5,2,True,Action
+Smokin' Aces,57,32,18,7,True,Action
+Sneakers,0,0,0,0,[],Action
+Snow White and the Huntsman,0,0,0,0,[],Action
+Soldier,7,4,3,0,True,Action
+Someone To Watch Over Me,16,14,2,0,True,Action
+Speed,0,0,0,0,[],Action
+Speed Racer,0,0,0,0,[],Action
+Spider-Man,1,0,1,0,True,Action
+Star Trek,38,31,7,0,True,Action
+Star Trek II: The Wrath of Khan,0,0,0,0,[],Action
+Star Trek: First Contact,0,0,0,0,[],Action
+Star Trek: Generations,0,0,0,0,[],Action
+Star Trek: Nemesis,0,0,0,0,[],Action
+Star Wars: A New Hope,0,0,0,0,[],Action
+Star Wars: Attack of the Clones,0,0,0,0,[],Action
+Star Wars: Return of the Jedi,0,0,0,0,[],Action
+Star Wars: Revenge of the Sith,0,0,0,0,[],Action
+Star Wars: The Empire Strikes Back,0,0,0,0,[],Action
+Star Wars: The Force Awakens,0,0,0,0,[],Action
+Star Wars: The Phantom Menace,0,0,0,0,[],Action
+Starship Troopers,1,0,0,1,True,Action
+Strange Days,38,30,7,1,True,Action
+"Stuntman, The",21,14,2,5,True,Action
+Superfights,0,0,0,0,[],Action
+Supergirl,0,0,0,0,[],Action
+Surrogates,1,0,0,1,True,Action
+Swordfish,29,24,5,0,True,Action
+Terminator,9,9,0,0,True,Action
+Terminator 2: Judgement Day,0,0,0,0,[],Action
+Terminator Salvation,6,1,4,1,True,Action
+Thelma & Louise,0,0,0,0,[],Action
+"Thing, The",8,5,3,0,True,Action
+Thor,0,0,0,0,[],Action
+Thor Ragnarok,1,0,1,0,True,Action
+Three Kings,57,49,8,0,True,Action
+Three Kings (Spoils of War),4,2,1,1,True,Action
+"Three Musketeers, The",0,0,0,0,[],Action
+Thunderbirds,0,0,0,0,[],Action
+Ticker,10,9,1,0,True,Action
+"Time Machine, The",0,0,0,0,[],Action
+TMNT,0,0,0,0,[],Action
+Tombstone,0,0,0,0,[],Action
+Tomorrow Never Dies,0,0,0,0,[],Action
+Top Gun,3,0,3,0,True,Action
+Total Recall,2,1,1,0,True,Action
+"Tourist, The",1,1,0,0,True,Action
+Training Day,104,62,37,5,True,Action
+Transformers: The Movie,0,0,0,0,[],Action
+Tristan and Isolde,0,0,0,0,[],Action
+TRON,0,0,0,0,[],Action
+TRON: Legacy,0,0,0,0,[],Action
+Tropic Thunder,24,17,6,1,True,Action
+Troy,0,0,0,0,[],Action
+True Lies,8,2,2,4,True,Action
+True Romance,94,64,23,7,True,Action
+Twins,4,1,3,0,True,Action
+V for Vendetta,7,6,1,0,True,Action
+Virtuosity,8,5,2,1,True,Action
+Walking Tall,1,1,0,0,True,Action
+Wanted,26,18,6,2,True,Action
+War for the Planet of the Apes,2,1,1,0,True,Action
+War of the Worlds,2,0,2,0,True,Action
+Warrior,7,1,6,0,True,Action
+Watchmen,1,0,1,0,True,Action
+Whiteout,4,3,1,0,True,Action
+Who Framed Roger Rabbit?,0,0,0,0,[],Action
+"Wild Bunch, The",1,0,0,1,True,Action
+Wild Hogs,5,0,3,2,True,Action
+Wild Things: Diamonds in the Rough,0,0,0,0,[],Action
+Wild Wild West,1,1,0,0,True,Action
+Willow,0,0,0,0,[],Action
+Wonder Woman,0,0,0,0,[],Action
+"World is not Enough, The",0,0,0,0,[],Action
+"X-Files: Fight the Future, The",0,0,0,0,[],Action
+X-Men,0,0,0,0,[],Action
+X-Men Origins: Wolverine,0,0,0,0,[],Action
+xXx,4,0,2,2,True,Action
