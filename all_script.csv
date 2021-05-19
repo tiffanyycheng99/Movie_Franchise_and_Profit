@@ -1,585 +1,585 @@
 title,Swear_Count,Fuck_Count,Shit_Count,Bitch_Count,Profanity,Genre
-10 Things I Hate About You,4,1,1,2,True,Crime
-12,0,0,0,0,[],Crime
-12 and Holding,4,1,3,0,True,Crime
-12 Monkeys,4,1,3,0,True,Crime
+10 Things I Hate About You,8,3,2,3,True,Crime
+12,2,2,0,0,True,Crime
+12 and Holding,12,9,3,0,True,Crime
+12 Monkeys,13,10,3,0,True,Crime
 12 Years a Slave,1,0,0,1,True,Crime
-127 Hours,3,2,1,0,True,Crime
+127 Hours,15,13,2,0,True,Crime
 1492: Conquest of Paradise,0,0,0,0,[],Crime
-15 Minutes,5,1,4,0,True,Crime
+15 Minutes,17,13,4,0,True,Crime
 17 Again,0,0,0,0,[],Crime
-187,10,7,2,1,True,Crime
+187,23,20,2,1,True,Crime
 2001: A Space Odyssey,0,0,0,0,[],Crime
-2012,1,0,1,0,True,Crime
+2012,2,1,1,0,True,Crime
 25th Hour,0,0,0,0,[],Crime
-28 Days Later,9,4,5,0,True,Crime
-30 Minutes or Less,79,51,25,3,True,Crime
+28 Days Later,43,38,5,0,True,Crime
+30 Minutes or Less,176,139,34,3,True,Crime
 42,2,0,1,1,True,Crime
-44 Inch Chest,18,17,0,1,True,Crime
-48 Hrs.,21,8,11,2,True,Crime
-50-50,14,9,4,1,True,Crime
-500 Days of Summer,6,0,5,1,True,Crime
+44 Inch Chest,60,58,1,1,True,Crime
+48 Hrs.,33,20,11,2,True,Crime
+50-50,23,18,4,1,True,Crime
+500 Days of Summer,16,10,5,1,True,Crime
 8 Mile,0,0,0,0,[],Crime
-8MM,10,8,2,0,True,Crime
+8MM,35,33,2,0,True,Crime
 9,0,0,0,0,[],Crime
-A Few Good Men,8,2,6,0,True,Crime
-A Most Violent Year,7,4,3,0,True,Crime
-A Prayer Before Dawn,4,3,1,0,True,Crime
+A Few Good Men,11,5,6,0,True,Crime
+A Most Violent Year,30,27,3,0,True,Crime
+A Prayer Before Dawn,20,17,3,0,True,Crime
 A Quiet Place,0,0,0,0,[],Crime
-A Scanner Darkly,23,17,6,0,True,Crime
-A Serious Man,0,0,0,0,[],Crime
+A Scanner Darkly,53,47,6,0,True,Crime
+A Serious Man,6,6,0,0,True,Crime
 A.I.,0,0,0,0,[],Crime
-Above the Law,10,7,3,0,True,Crime
-Absolute Power,4,1,2,1,True,Crime
-"Abyss, The",1,0,1,0,True,Crime
+Above the Law,18,15,3,0,True,Crime
+Absolute Power,11,8,2,1,True,Crime
+"Abyss, The",2,1,1,0,True,Crime
 Ace Ventura: Pet Detective,0,0,0,0,[],Crime
-Adaptation,13,10,2,1,True,Crime
+Adaptation,35,32,2,1,True,Crime
 "Addams Family, The",0,0,0,0,[],Crime
-"Adjustment Bureau, The",0,0,0,0,[],Crime
+"Adjustment Bureau, The",5,5,0,0,True,Crime
 "Adventures of Buckaroo Banzai Across the Eighth Dimension, The",0,0,0,0,[],Crime
-Affliction,12,9,3,0,True,Crime
-After School Special,7,0,7,0,True,Crime
-After.Life,5,3,1,1,True,Crime
+Affliction,46,42,3,1,True,Crime
+After School Special,8,1,7,0,True,Crime
+After.Life,19,17,1,1,True,Crime
 Agnes of God,1,0,0,1,True,Crime
-Air Force One,5,4,1,0,True,Crime
+Air Force One,10,9,1,0,False,Crime
 Airplane,2,0,2,0,True,Crime
 Airplane 2: The Sequel,0,0,0,0,[],Crime
 Aladdin,0,0,0,0,[],Crime
-Ali,4,4,0,0,True,Crime
-Alien,0,0,0,0,[],Crime
-Alien 3,1,1,0,0,True,Crime
-Alien Nation,4,0,3,1,True,Crime
-Alien vs. Predator,1,0,1,0,True,Crime
+Ali,6,6,0,0,True,Crime
+Alien,1,1,0,0,True,Crime
+Alien 3,4,4,0,0,True,Crime
+Alien Nation,5,1,3,1,True,Crime
+Alien vs. Predator,8,7,1,0,True,Crime
 Alien: Resurrection,0,0,0,0,[],Crime
-Aliens,9,6,2,1,True,Crime
+Aliens,19,16,2,1,True,Crime
 All About Eve,0,0,0,0,[],Crime
-All About Steve,0,0,0,0,[],Crime
+All About Steve,1,0,0,1,True,Crime
 All the King's Men,0,0,0,0,[],Crime
-All the President's Men,10,7,3,0,True,Crime
-Almost Famous,5,3,2,0,True,Crime
+All the President's Men,17,14,3,0,True,Crime
+Almost Famous,24,21,2,1,True,Crime
 Alone in the Dark,1,1,0,0,True,Crime
 Amadeus,2,1,1,0,True,Crime
-Amelia,0,0,0,0,[],Crime
-American Beauty,9,8,1,0,True,Crime
-American Gangster,31,26,5,0,True,Crime
+Amelia,1,1,0,0,True,Crime
+American Beauty,18,17,1,0,True,Crime
+American Gangster,50,45,5,0,True,Crime
 American Graffiti,1,0,1,0,True,Crime
-American History X,34,10,22,2,True,Crime
-American Hustle,20,14,5,1,True,Crime
+American History X,120,94,23,3,True,Crime
+American Hustle,90,84,5,1,True,Crime
 American Madness,0,0,0,0,[],Crime
-American Milkshake,10,3,7,0,True,Crime
+American Milkshake,29,20,9,0,True,Crime
 American Outlaws,0,0,0,0,[],Crime
-American Pie,15,9,6,0,True,Crime
-"American President, The",4,1,3,0,True,Crime
-American Psycho,8,5,1,2,True,Crime
+American Pie,25,18,7,0,True,Crime
+"American President, The",6,3,3,0,True,Crime
+American Psycho,39,36,1,2,True,Crime
 American Shaolin: King of Kickboxers II,0,0,0,0,[],Crime
-American Sniper,18,7,11,0,True,Crime
-American Splendor,4,0,4,0,True,Crime
-American Werewolf in London,1,1,0,0,True,Crime
-"American, The",5,3,2,0,True,Crime
-"Amityville Asylum, The",9,5,4,0,True,Crime
+American Sniper,44,28,15,1,True,Crime
+American Splendor,6,2,4,0,True,Crime
+American Werewolf in London,4,4,0,0,True,Crime
+"American, The",10,8,2,0,True,Crime
+"Amityville Asylum, The",30,26,4,0,True,Crime
 Amour,1,1,0,0,True,Crime
 An Education,0,0,0,0,[],Crime
-Analyze That,21,10,10,1,True,Crime
-Analyze This,16,8,8,0,True,Crime
+Analyze That,34,23,10,1,True,Crime
+Analyze This,36,28,8,0,True,Crime
 Anastasia,0,0,0,0,[],Crime
-Angel Eyes,1,0,1,0,True,Crime
+Angel Eyes,2,1,1,0,True,Crime
 Angels & Demons,0,0,0,0,[],Crime
 Anna Karenina,0,0,0,0,[],Crime
 Annie Hall,0,0,0,0,[],Crime
-"Anniversary Party, The",13,10,2,1,True,Crime
+"Anniversary Party, The",54,51,2,1,True,Crime
 Anonymous,0,0,0,0,[],Crime
 Antitrust,1,0,1,0,True,Crime
 Antz,0,0,0,0,[],Crime
 "Apartment, The",0,0,0,0,[],Crime
-Apocalypse Now,7,1,4,2,True,Crime
+Apocalypse Now,28,17,9,2,True,Crime
 Apollo 13,0,0,0,0,[],Crime
-April Fool's Day,10,7,3,0,True,Crime
-Apt Pupil,7,5,2,0,True,Crime
-Arbitrage,13,12,1,0,True,Crime
-Arcade,5,4,1,0,True,Crime
-Arctic Blue,6,3,3,0,True,Crime
-Argo,9,9,0,0,True,Crime
-Armageddon,7,2,5,0,True,Crime
+April Fool's Day,12,9,3,0,True,Crime
+Apt Pupil,33,31,2,0,True,Crime
+Arbitrage,47,46,1,0,True,Crime
+Arcade,17,16,1,0,True,Crime
+Arctic Blue,19,16,3,0,True,Crime
+Argo,22,22,0,0,True,Crime
+Armageddon,10,4,6,0,True,Crime
 Army of Darkness,1,0,0,1,True,Crime
 Arsenic and Old Lace,0,0,0,0,[],Crime
-Arthur,7,2,5,0,True,Crime
+Arthur,12,7,5,0,True,Crime
 "Artist, The",0,0,0,0,[],Crime
-As Good As It Gets,3,1,1,1,True,Crime
-Assassins,17,13,3,1,True,Crime
-"Assignment, The",29,14,9,6,True,Crime
-At First Sight,1,0,1,0,True,Crime
+As Good As It Gets,6,4,1,1,True,Crime
+Assassins,59,54,4,1,True,Crime
+"Assignment, The",44,29,9,6,True,Crime
+At First Sight,5,2,3,0,True,Crime
 August: Osage County,0,0,0,0,[],Crime
 Austin Powers - International Man of Mystery,0,0,0,0,[],Crime
 Austin Powers - The Spy Who Shagged Me,1,0,0,1,True,Crime
 Authors Anonymous,1,0,1,0,True,Crime
 Autumn in New York,2,1,1,0,True,Crime
-Avatar,6,0,5,1,True,Crime
+Avatar,8,1,5,2,True,Crime
 "Avengers, The",0,0,0,0,[],Crime
-"Avengers, The (2012)",6,2,4,0,True,Crime
+"Avengers, The (2012)",17,11,6,0,True,Crime
 "Avventura, L' (The Adventure)",0,0,0,0,[],Crime
 Awakenings,0,0,0,0,[],Crime
-Babel,9,6,3,0,True,Crime
-Bachelor Party,4,1,3,0,True,Crime
+Babel,22,18,4,0,True,Crime
+Bachelor Party,5,2,3,0,True,Crime
 "Bachelor Party, The",0,0,0,0,[],Crime
 Back to the Future,0,0,0,0,[],Crime
 Back to the Future II & III,0,0,0,0,[],Crime
-"Back-up Plan, The",5,5,0,0,True,Crime
-Backdraft,16,5,8,3,True,Crime
-Bad Boys,32,19,13,0,True,Crime
-Bad Country,24,17,6,1,True,Crime
+"Back-up Plan, The",16,14,2,0,True,Crime
+Backdraft,36,25,8,3,True,Crime
+Bad Boys,45,31,14,0,True,Crime
+Bad Country,39,32,6,1,True,Crime
 Bad Day at Black Rock,0,0,0,0,[],Crime
-Bad Dreams,4,3,1,0,True,Crime
-Bad Lieutenant,19,10,9,0,True,Crime
-Bad Santa,42,22,19,1,True,Crime
-Bad Teacher,9,6,3,0,True,Crime
+Bad Dreams,12,11,1,0,True,Crime
+Bad Lieutenant,68,59,9,0,True,Crime
+Bad Santa,101,80,20,1,True,Crime
+Bad Teacher,19,14,5,0,True,Crime
 Badlands,0,0,0,0,[],Crime
-Bamboozled,2,0,1,1,True,Crime
+Bamboozled,4,1,1,2,True,Crime
 Barry Lyndon,0,0,0,0,[],Crime
-Barton Fink,2,0,1,1,True,Crime
-Basic,25,18,6,1,True,Crime
-Basic Instinct,19,18,1,0,True,Crime
-Basquiat,11,3,8,0,True,Crime
+Barton Fink,3,1,1,1,True,Crime
+Basic,51,41,9,1,True,Crime
+Basic Instinct,32,29,2,1,True,Crime
+Basquiat,21,13,8,0,True,Crime
 Batman,1,0,1,0,True,Crime
-Batman 2,2,0,2,0,True,Crime
+Batman 2,6,1,4,1,True,Crime
 Batman and Robin,0,0,0,0,[],Crime
 Batman Begins,0,0,0,0,[],Crime
 Batman Forever,0,0,0,0,[],Crime
 Batman Returns,0,0,0,0,[],Crime
 "Battle of Algiers, The",0,0,0,0,[],Crime
-"Battle of Shaker Heights, The",9,8,1,0,True,Crime
+"Battle of Shaker Heights, The",16,15,1,0,True,Crime
 Battle: Los Angeles,0,0,0,0,[],Crime
-"Beach, The",5,2,3,0,True,Crime
+"Beach, The",20,17,3,0,True,Crime
 Bean,0,0,0,0,[],Crime
-Beasts of No Nation,0,0,0,0,[],Crime
-Beasts of the Southern Wild,0,0,0,0,[],Crime
+Beasts of No Nation,2,2,0,0,True,Crime
+Beasts of the Southern Wild,1,1,0,0,True,Crime
 Beauty and the Beast,0,0,0,0,[],Crime
 Beavis and Butt-head Do America,0,0,0,0,[],Crime
-Beginners,1,1,0,0,True,Crime
-Being Human,3,2,1,0,True,Crime
-Being John Malkovich,7,4,2,1,True,Crime
+Beginners,5,5,0,0,True,Crime
+Being Human,4,3,1,0,True,Crime
+Being John Malkovich,16,13,2,1,True,Crime
 Being There,3,1,0,2,True,Crime
-"Believer, The",15,12,3,0,True,Crime
+"Believer, The",40,37,3,0,True,Crime
 Belle,0,0,0,0,[],Crime
 Beloved,2,0,1,1,True,Crime
 Benny & Joon,0,0,0,0,[],Crime
-"Best Exotic Marigold Hotel, The",1,1,0,0,True,Crime
+"Best Exotic Marigold Hotel, The",2,2,0,0,True,Crime
 Big,1,1,0,0,True,Crime
-"Big Blue, The",1,0,1,0,True,Crime
-Big Eyes,0,0,0,0,[],Crime
+"Big Blue, The",2,1,1,0,True,Crime
+Big Eyes,1,1,0,0,True,Crime
 Big Fish,3,0,3,0,True,Crime
-"Big Lebowski, The",55,45,10,0,True,Crime
-"Big Sick, The",8,6,2,0,True,Crime
-"Big White, The",5,1,3,1,True,Crime
-Birdman,32,20,12,0,True,Crime
+"Big Lebowski, The",224,209,15,0,True,Crime
+"Big Sick, The",46,43,3,0,True,Crime
+"Big White, The",19,13,5,1,True,Crime
+Birdman,73,60,13,0,True,Crime
 "Birds, The",0,0,0,0,[],Crime
-Birthday Girl,4,4,0,0,True,Crime
-"Black Dahlia, The",23,15,5,3,True,Crime
+Birthday Girl,12,12,0,0,True,Crime
+"Black Dahlia, The",44,35,6,3,True,Crime
 Black Panther,7,0,7,0,True,Crime
-Black Rain,4,1,3,0,True,Crime
-Black Snake Moan,28,12,15,1,True,Crime
-Black Swan,0,0,0,0,[],Crime
-BlacKkKlansman,2,0,2,0,True,Crime
-Blade,6,2,4,0,True,Crime
-Blade II,8,6,2,0,True,Crime
-Blade Runner,4,2,2,0,True,Crime
+Black Rain,5,1,4,0,True,Crime
+Black Snake Moan,38,18,17,3,True,Crime
+Black Swan,15,15,0,0,True,Crime
+BlacKkKlansman,24,14,8,2,True,Crime
+Blade,12,8,4,0,True,Crime
+Blade II,32,30,2,0,True,Crime
+Blade Runner,5,3,2,0,True,Crime
 Blade: Trinity,0,0,0,0,[],Crime
-"Blast from the Past, The",3,1,1,1,True,Crime
-"Blind Side, The",0,0,0,0,[],Crime
-"Bling Ring, The",9,9,0,0,True,Crime
-Blood and Wine,3,2,1,0,True,Crime
-Blood Simple,2,1,1,0,True,Crime
-Blow,20,14,5,1,True,Crime
-Blue Valentine,9,4,5,0,True,Crime
-Blue Velvet,10,6,4,0,True,Crime
+"Blast from the Past, The",4,1,2,1,True,Crime
+"Blind Side, The",1,0,1,0,True,Crime
+"Bling Ring, The",23,23,0,0,True,Crime
+Blood and Wine,14,13,1,0,True,Crime
+Blood Simple,8,7,1,0,True,Crime
+Blow,87,81,5,1,True,Crime
+Blue Valentine,23,18,5,0,True,Crime
+Blue Velvet,16,11,5,0,True,Crime
 "Blues Brothers, The",0,0,0,0,[],Crime
 "Bodies, Rest & Motion",0,0,0,0,[],Crime
-Body Heat,5,3,2,0,True,Crime
-Body of Evidence,3,2,0,1,True,Crime
-Bodyguard,7,6,1,0,True,Crime
-Bones,16,6,9,1,True,Crime
-Bonfire of the Vanities,7,1,5,1,True,Crime
+Body Heat,6,4,2,0,True,Crime
+Body of Evidence,6,5,0,1,True,Crime
+Bodyguard,21,15,2,4,True,Crime
+Bones,26,15,9,2,True,Crime
+Bonfire of the Vanities,27,21,5,1,True,Crime
 Bonnie and Clyde,1,1,0,0,True,Crime
-Boogie Nights,41,28,11,2,True,Crime
-"Book of Eli, The",3,2,1,0,True,Crime
+Boogie Nights,92,78,12,2,True,Crime
+"Book of Eli, The",14,13,1,0,True,Crime
 Boondock Saints 2: All Saints Day,0,0,0,0,[],Crime
-"Boondock Saints, The",52,37,15,0,True,Crime
-Bottle Rocket,24,17,7,0,True,Crime
-Bound,25,20,4,1,True,Crime
-"Bounty Hunter, The",12,8,3,1,True,Crime
-"Bourne Identity, The",20,11,9,0,True,Crime
+"Boondock Saints, The",93,77,16,0,True,Crime
+Bottle Rocket,39,31,8,0,True,Crime
+Bound,64,58,5,1,True,Crime
+"Bounty Hunter, The",16,12,3,1,True,Crime
+"Bourne Identity, The",38,24,14,0,True,Crime
 "Bourne Supremacy, The",0,0,0,0,[],Crime
-"Bourne Ultimatum, The",0,0,0,0,[],Crime
+"Bourne Ultimatum, The",1,1,0,0,True,Crime
 "Box, The",1,0,1,0,True,Crime
 "Boxtrolls, The",0,0,0,0,[],Crime
-Boyhood,17,6,8,3,True,Crime
+Boyhood,40,28,9,3,True,Crime
 Braveheart,0,0,0,0,[],Crime
-Brazil,1,0,1,0,True,Crime
+Brazil,5,3,2,0,True,Crime
 Break,3,0,3,0,True,Crime
-Breakdown,3,2,1,0,True,Crime
-"Breakfast Club, The",9,2,7,0,True,Crime
+Breakdown,16,15,1,0,True,Crime
+"Breakfast Club, The",23,15,8,0,True,Crime
 Breaking Away,0,0,0,0,[],Crime
 Brick,0,0,0,0,[],Crime
-Bridesmaids,4,2,2,0,True,Crime
-Bringing Out the Dead,7,2,5,0,True,Crime
-Broadcast News,0,0,0,0,[],Crime
-Broken Arrow,0,0,0,0,[],Crime
-Broken Embraces,3,3,0,0,True,Crime
-"Brothers Bloom, The",5,1,4,0,True,Crime
+Bridesmaids,15,6,9,0,True,Crime
+Bringing Out the Dead,8,3,5,0,False,Crime
+Broadcast News,3,2,1,0,True,Crime
+Broken Arrow,2,2,0,0,True,Crime
+Broken Embraces,5,5,0,0,True,Crime
+"Brothers Bloom, The",10,5,5,0,True,Crime
 Bruce Almighty,0,0,0,0,[],Crime
-Buffy the Vampire Slayer,3,1,2,0,True,Crime
-Bull Durham,14,4,8,2,True,Crime
-Buried,1,0,1,0,True,Crime
-Burlesque,4,0,2,2,True,Crime
-Burn After Reading,9,5,4,0,True,Crime
-Burning Annie,7,2,5,0,True,Crime
-"Butterfly Effect, The",15,8,6,1,True,Crime
+Buffy the Vampire Slayer,6,2,2,2,True,Crime
+Bull Durham,25,15,8,2,True,Crime
+Buried,9,8,1,0,True,Crime
+Burlesque,5,0,3,2,True,Crime
+Burn After Reading,32,27,5,0,True,Crime
+Burning Annie,13,6,7,0,True,Crime
+"Butterfly Effect, The",31,23,7,1,True,Crime
 Cable Guy,0,0,0,0,[],Crime
-Candle to Water,25,19,5,1,True,Crime
-Capote,0,0,0,0,[],Crime
-Carrie,1,0,1,0,True,Crime
+Candle to Water,51,44,6,1,True,Crime
+Capote,2,2,0,0,True,Crime
+Carrie,7,3,4,0,True,Crime
 Cars 2,0,0,0,0,[],Crime
 Casablanca,0,0,0,0,[],Crime
-Case 39,0,0,0,0,[],Crime
-Casino,76,67,9,0,True,Crime
-Cast Away,4,3,0,1,True,Crime
-Catch Me If You Can,5,2,2,1,True,Crime
+Case 39,2,2,0,0,True,Crime
+Casino,117,108,9,0,False,Crime
+Cast Away,17,16,0,1,True,Crime
+Catch Me If You Can,11,7,2,2,True,Crime
 Catwoman,0,0,0,0,[],Crime
-Cecil B. Demented,7,6,0,1,True,Crime
-Cedar Rapids,18,12,6,0,True,Crime
+Cecil B. Demented,33,31,0,2,True,Crime
+Cedar Rapids,36,28,8,0,True,Crime
 Celeste & Jesse Forever,0,0,0,0,[],Crime
-"Cell, The",1,1,0,0,True,Crime
-Cellular,5,0,4,1,True,Crime
-"Change-Up, The",53,40,11,2,True,Crime
-Changeling,1,1,0,0,True,Crime
-Chaos,7,2,5,0,True,Crime
+"Cell, The",8,8,0,0,True,Crime
+Cellular,10,1,8,1,True,Crime
+"Change-Up, The",128,114,12,2,True,Crime
+Changeling,4,4,0,0,True,Crime
+Chaos,11,6,5,0,True,Crime
 Charade,0,0,0,0,[],Crime
 Charlie's Angels,3,2,1,0,True,Crime
-Chasing Amy,50,21,20,9,True,Crime
-Chasing Sleep,4,2,1,1,True,Crime
-Cherry Falls,16,11,5,0,True,Crime
+Chasing Amy,136,100,21,15,True,Crime
+Chasing Sleep,15,11,3,1,True,Crime
+Cherry Falls,30,25,5,0,True,Crime
 Chinatown,5,1,2,2,True,Crime
-Christ Complex,8,7,1,0,True,Crime
-Chronicle,24,14,10,0,True,Crime
+Christ Complex,24,23,1,0,True,Crime
+Chronicle,88,76,12,0,True,Crime
 "Chronicles of Narnia: The Lion, the Witch and the Wardrobe",0,0,0,0,[],Crime
 "Cider House Rules, The",1,0,1,0,True,Crime
 "Cincinnati Kid, The",2,0,0,2,True,Crime
-Cinema Paradiso,5,4,1,0,True,Crime
+Cinema Paradiso,10,8,2,0,True,Crime
 Cirque du Freak: The Vampire's Assistant,0,0,0,0,[],Crime
 Citizen Kane,0,0,0,0,[],Crime
 City of Joy,0,0,0,0,[],Crime
 Clash of the Titans,0,0,0,0,[],Crime
-Clerks,28,14,14,0,True,Crime
-Cliffhanger,11,8,1,2,True,Crime
+Clerks,85,69,16,0,True,Crime
+Cliffhanger,23,19,2,2,True,Crime
 "Clockwork Orange, A",0,0,0,0,[],Crime
-Clueless,1,0,1,0,True,Crime
-Cobb,18,8,5,5,True,Crime
+Clueless,2,0,1,1,True,Crime
+Cobb,44,33,6,5,True,Crime
 Coco,0,0,0,0,[],Crime
-Code of Silence,12,5,7,0,True,Crime
-Cold Mountain,4,0,4,0,True,Crime
+Code of Silence,18,11,7,0,True,Crime
+Cold Mountain,5,1,4,0,True,Crime
 Collateral,0,0,0,0,[],Crime
-Collateral Damage,9,3,5,1,True,Crime
-Colombiana,9,5,2,2,True,Crime
-Color of Night,24,10,11,3,True,Crime
+Collateral Damage,17,11,5,1,True,Crime
+Colombiana,10,6,2,2,True,Crime
+Color of Night,61,44,14,3,True,Crime
 Commando,0,0,0,0,[],Crime
 Conan the Barbarian,0,0,0,0,[],Crime
-Confessions of a Dangerous Mind,22,19,3,0,True,Crime
-Confidence,19,7,10,2,True,Crime
-Constantine,7,0,7,0,True,Crime
+Confessions of a Dangerous Mind,51,46,5,0,True,Crime
+Confidence,57,43,11,3,True,Crime
+Constantine,10,1,9,0,True,Crime
 Contact,0,0,0,0,[],Crime
-"Cooler, The",16,12,4,0,True,Crime
-Copycat,10,5,3,2,True,Crime
+"Cooler, The",52,46,6,0,True,Crime
+Copycat,16,10,3,3,True,Crime
 Coraline,0,0,0,0,[],Crime
 Coriolanus,0,0,0,0,[],Crime
 Courage Under Fire,0,0,0,0,[],Crime
 Cowboys & Aliens,0,0,0,0,[],Crime
-Cradle 2 the Grave,16,7,8,1,True,Crime
-Crank,27,7,13,7,True,Crime
-Crash,2,1,0,1,True,Crime
-"Crazy, Stupid, Love",3,1,2,0,True,Crime
-Crazylove,1,1,0,0,True,Crime
+Cradle 2 the Grave,32,21,9,2,True,Crime
+Crank,46,23,15,8,True,Crime
+Crash,3,2,0,1,True,Crime
+"Crazy, Stupid, Love",7,4,3,0,True,Crime
+Crazylove,6,6,0,0,True,Crime
 Creation,1,0,1,0,True,Crime
-Crime Spree,7,4,2,1,True,Crime
+Crime Spree,14,11,2,1,True,Crime
 "Croods, The",0,0,0,0,[],Crime
 "Crouching Tiger, Hidden Dragon",0,0,0,0,[],Crime
-Croupier,12,8,3,1,True,Crime
-"Crow Salvation, The",9,4,4,1,True,Crime
-"Crow, The",13,7,4,2,True,Crime
+Croupier,22,18,3,1,True,Crime
+"Crow Salvation, The",31,24,4,3,True,Crime
+"Crow, The",27,21,4,2,True,Crime
 "Crow: City of Angels, The",0,0,0,0,[],Crime
-Cruel Intentions,10,5,5,0,True,Crime
-Crying Game,30,24,2,4,True,Crime
-Cube,2,2,0,0,True,Crime
-"Curious Case of Benjamin Button, The",4,0,4,0,True,Crime
-Custody,1,0,1,0,True,Crime
-Dallas Buyers Club,30,17,13,0,True,Crime
-"Damned United, The",3,3,0,0,True,Crime
+Cruel Intentions,31,26,5,0,True,Crime
+Crying Game,64,58,2,4,True,Crime
+Cube,23,23,0,0,True,Crime
+"Curious Case of Benjamin Button, The",5,1,4,0,True,Crime
+Custody,3,2,1,0,True,Crime
+Dallas Buyers Club,42,28,14,0,True,Crime
+"Damned United, The",56,56,0,0,True,Crime
 Dances with Wolves,1,0,0,1,True,Crime
 "Danish Girl, The",0,0,0,0,[],Crime
-Dark City,0,0,0,0,[],Crime
+Dark City,1,1,0,0,True,Crime
 "Dark Knight Rises, The",0,0,0,0,[],Crime
 "Dark Knight, The",0,0,0,0,[],Crime
-Dark Star,0,0,0,0,[],Crime
-Darkman,5,2,0,3,True,Crime
-Date Night,0,0,0,0,[],Crime
+Dark Star,3,3,0,0,True,Crime
+Darkman,9,6,0,3,True,Crime
+Date Night,2,1,1,0,True,Crime
 Dave Barry's Complete Guide to Guys,4,0,4,0,True,Crime
-Dawn of the Dead,0,0,0,0,[],Crime
-Day of the Dead,9,0,9,0,True,Crime
+Dawn of the Dead,5,2,3,0,True,Crime
+Day of the Dead,10,1,9,0,True,Crime
 "Day the Clown Cried, The",0,0,0,0,[],Crime
 "Day the Earth Stood Still, The",0,0,0,0,[],Crime
-Days of Heaven,2,0,2,0,True,Crime
+Days of Heaven,3,1,2,0,True,Crime
 Dead Poets Society,1,0,1,0,True,Crime
-Deadpool,9,6,3,0,True,Crime
-Dear White People,17,10,5,2,True,Crime
-Death at a Funeral,5,1,4,0,True,Crime
-Death to Smoochy,2,0,2,0,True,Crime
-"Debt, The",4,3,1,0,True,Crime
-Deception,1,1,0,0,True,Crime
-Deep Cover,17,10,5,2,True,Crime
-Deep Rising,19,0,18,1,True,Crime
-"Deer Hunter, The",7,5,2,0,True,Crime
-Defiance,8,0,8,0,True,Crime
-"Departed, The",52,44,7,1,True,Crime
-"Descendants, The",15,6,8,1,True,Crime
+Deadpool,19,15,4,0,True,Crime
+Dear White People,38,26,5,7,True,Crime
+Death at a Funeral,8,3,5,0,True,Crime
+Death to Smoochy,34,32,2,0,True,Crime
+"Debt, The",22,21,1,0,True,Crime
+Deception,2,2,0,0,True,Crime
+Deep Cover,32,25,5,2,True,Crime
+Deep Rising,22,3,18,1,True,Crime
+"Deer Hunter, The",33,31,2,0,True,Crime
+Defiance,15,6,9,0,True,Crime
+"Departed, The",127,117,9,1,True,Crime
+"Descendants, The",28,19,8,1,True,Crime
 Despicable Me 2,0,0,0,0,[],Crime
-Detroit Rock City,14,4,9,1,True,Crime
-Devil in a Blue Dress,3,0,3,0,True,Crime
+Detroit Rock City,27,16,9,2,True,Crime
+Devil in a Blue Dress,4,1,3,0,True,Crime
 "Devil Wears Prada, The",0,0,0,0,[],Crime
-Devil's Advocate,20,17,2,1,True,Crime
-Die Hard,12,8,4,0,True,Crime
-Die Hard 2,20,13,7,0,True,Crime
-Diner,2,0,1,1,True,Crime
-"Distinguished Gentleman, The",12,5,6,1,True,Crime
-Disturbia,7,0,6,1,True,Crime
-Django Unchained,15,5,9,1,True,Crime
-Do The Right Thing,17,12,5,0,True,Crime
-Dog Day Afternoon,22,19,2,1,True,Crime
-Dogma,46,20,21,5,True,Crime
-Donnie Brasco,29,26,3,0,True,Crime
+Devil's Advocate,46,43,2,1,True,Crime
+Die Hard,26,22,4,0,True,Crime
+Die Hard 2,45,38,7,0,True,Crime
+Diner,6,4,1,1,True,Crime
+"Distinguished Gentleman, The",17,8,8,1,True,Crime
+Disturbia,14,2,11,1,True,Crime
+Django Unchained,33,19,11,3,True,Crime
+Do The Right Thing,37,32,5,0,True,Crime
+Dog Day Afternoon,31,27,2,2,True,Crime
+Dogma,85,55,24,6,True,Crime
+Donnie Brasco,200,197,3,0,True,Crime
 Donnie Darko,0,0,0,0,[],Crime
-"Doors, The",33,25,8,0,True,Crime
+"Doors, The",94,84,10,0,True,Crime
 Double Indemnity,0,0,0,0,[],Crime
-Drag Me to Hell,1,1,0,0,True,Crime
+Drag Me to Hell,3,3,0,0,True,Crime
 Dragonslayer,0,0,0,0,[],Crime
-Drive,7,7,0,0,True,Crime
-Drive Angry,21,15,4,2,True,Crime
-Drop Dead Gorgeous,3,1,0,2,True,Crime
-"Dry White Season, A",0,0,0,0,[],Crime
+Drive,41,41,0,0,True,Crime
+Drive Angry,53,44,4,5,True,Crime
+Drop Dead Gorgeous,4,2,0,2,True,Crime
+"Dry White Season, A",3,3,0,0,True,Crime
 Duck Soup,0,0,0,0,[],Crime
-Dumb and Dumber,4,0,2,2,True,Crime
+Dumb and Dumber,6,2,2,2,True,Crime
 Dune,0,0,0,0,[],Crime
 E.T.,0,0,0,0,[],Crime
-Eagle Eye,8,3,5,0,True,Crime
-Eastern Promises,9,6,0,3,True,Crime
-Easy A,13,11,1,1,True,Crime
+Eagle Eye,22,17,5,0,True,Crime
+Eastern Promises,32,29,0,3,True,Crime
+Easy A,35,33,1,1,True,Crime
 Ed TV,4,0,4,0,True,Crime
-Ed Wood,3,2,0,1,True,Crime
+Ed Wood,9,7,1,1,True,Crime
 Edward Scissorhands,1,0,1,0,True,Crime
 Eight Legged Freaks,1,1,0,0,True,Crime
 El Mariachi,0,0,0,0,[],Crime
-Election,5,2,0,3,True,Crime
+Election,11,8,0,3,True,Crime
 "Elephant Man, The",0,0,0,0,[],Crime
 Elizabeth: The Golden Age,0,0,0,0,[],Crime
-Enemy of the State,6,6,0,0,True,Crime
-"English Patient, The",1,1,0,0,True,Crime
-Enough,1,1,0,0,True,Crime
-Entrapment,7,3,3,1,True,Crime
+Enemy of the State,18,18,0,0,True,Crime
+"English Patient, The",8,8,0,0,True,Crime
+Enough,3,3,0,0,True,Crime
+Entrapment,21,17,3,1,True,Crime
 Equilibrium,0,0,0,0,[],Crime
 Erik the Viking,0,0,0,0,[],Crime
-Erin Brockovich,20,7,9,4,True,Crime
-Escape From L.A.,5,1,4,0,True,Crime
-Escape From New York,7,2,3,2,True,Crime
-Eternal Sunshine of the Spotless Mind,4,3,1,0,True,Crime
-Even Cowgirls Get the Blues,2,0,2,0,True,Crime
-Event Horizon,4,3,1,0,True,Crime
+Erin Brockovich,44,27,13,4,True,Crime
+Escape From L.A.,6,2,4,0,True,Crime
+Escape From New York,8,3,3,2,True,Crime
+Eternal Sunshine of the Spotless Mind,25,24,1,0,True,Crime
+Even Cowgirls Get the Blues,12,3,8,1,True,Crime
+Event Horizon,9,8,1,0,True,Crime
 Evil Dead,1,0,1,0,True,Crime
 Evil Dead II: Dead by Dawn,0,0,0,0,[],Crime
-Ex Machina,2,1,1,0,True,Crime
+Ex Machina,18,17,1,0,True,Crime
 Excalibur,0,0,0,0,[],Crime
 Executive Decision,0,0,0,0,[],Crime
 eXistenZ,0,0,0,0,[],Crime
-Extract,4,0,4,0,True,Crime
+Extract,5,0,5,0,True,Crime
 Eyes Wide Shut,0,0,0,0,[],Crime
-"Fabulous Baker Boys, The",4,3,1,0,True,Crime
-Face Off,6,3,3,0,True,Crime
-Fair Game,7,5,1,1,True,Crime
-"Family Man, The",2,1,1,0,True,Crime
+"Fabulous Baker Boys, The",26,24,2,0,True,Crime
+Face Off,13,10,3,0,True,Crime
+Fair Game,20,18,1,1,True,Crime
+"Family Man, The",3,1,2,0,True,Crime
 Fantastic Four,0,0,0,0,[],Crime
 Fantastic Mr Fox,0,0,0,0,[],Crime
-Fargo,6,6,0,0,True,Crime
-Fast Times at Ridgemont High,5,4,1,0,True,Crime
+Fargo,37,36,0,1,True,Crime
+Fast Times at Ridgemont High,8,7,1,0,True,Crime
 Fatal Instinct,0,0,0,0,[],Crime
-"Fault in Our Stars, The",4,2,2,0,True,Crime
-Fear and Loathing in Las Vegas,21,10,9,2,True,Crime
-Feast,10,5,4,1,True,Crime
-Ferris Bueller's Day Off,7,0,6,1,True,Crime
+"Fault in Our Stars, The",7,3,4,0,True,Crime
+Fear and Loathing in Las Vegas,49,38,9,2,True,Crime
+Feast,19,13,5,1,True,Crime
+Ferris Bueller's Day Off,8,0,7,1,True,Crime
 Field of Dreams,5,4,1,0,True,Crime
-"Fifth Element, The",3,2,1,0,True,Crime
-Fight Club,16,8,6,2,True,Crime
-"Fighter, The",10,7,3,0,True,Crime
-Final Destination,5,3,2,0,True,Crime
-Final Destination 2,14,6,7,1,True,Crime
+"Fifth Element, The",9,7,2,0,True,Crime
+Fight Club,40,31,7,2,True,Crime
+"Fighter, The",24,20,4,0,True,Crime
+Final Destination,20,18,2,0,True,Crime
+Final Destination 2,26,17,7,2,True,Crime
 Finding Nemo,0,0,0,0,[],Crime
-Five Easy Pieces,4,0,3,1,True,Crime
+Five Easy Pieces,6,1,4,1,True,Crime
 Flash Gordon,0,0,0,0,[],Crime
 Fletch,0,0,0,0,[],Crime
-Flight,17,10,6,1,True,Crime
+Flight,56,48,7,1,True,Crime
 "Flintstones, The",0,0,0,0,[],Crime
-Forrest Gump,3,0,2,1,True,Crime
+Forrest Gump,6,3,2,1,True,Crime
 Four Feathers,0,0,0,0,[],Crime
-Four Rooms,18,12,4,2,True,Crime
-Foxcatcher,3,1,2,0,True,Crime
-Fracture,0,0,0,0,[],Crime
-Frances,3,2,0,1,True,Crime
+Four Rooms,50,44,4,2,True,Crime
+Foxcatcher,7,5,2,0,True,Crime
+Fracture,2,2,0,0,True,Crime
+Frances,8,7,0,1,True,Crime
 Frankenstein,0,0,0,0,[],Crime
 Frankenweenie,0,0,0,0,[],Crime
-Freaked,1,1,0,0,True,Crime
-Freddy vs. Jason,16,1,2,13,True,Crime
-"French Connection, The",4,0,4,0,True,Crime
-Frequency,3,2,1,0,True,Crime
-Friday the 13th,1,1,0,0,True,Crime
+Freaked,3,2,1,0,True,Crime
+Freddy vs. Jason,42,5,2,35,True,Crime
+"French Connection, The",6,2,4,0,True,Crime
+Frequency,14,13,1,0,True,Crime
+Friday the 13th,2,2,0,0,True,Crime
 Friday the 13th Part VIII: Jason Takes Manhattan,0,0,0,0,[],Crime
-Fright Night,7,3,4,0,True,Crime
-Fright Night (1985),1,1,0,0,True,Crime
-From Dusk Till Dawn,47,21,25,1,True,Crime
+Fright Night,14,9,4,1,True,Crime
+Fright Night (1985),3,3,0,0,True,Crime
+From Dusk Till Dawn,70,44,25,1,True,Crime
 From Here to Eternity,0,0,0,0,[],Crime
-Frozen,5,2,3,0,True,Crime
+Frozen,24,21,3,0,True,Crime
 Frozen (Disney),0,0,0,0,[],Crime
-Frozen River,1,1,0,0,True,Crime
-Fruitvale Station,31,16,11,4,True,Crime
+Frozen River,2,2,0,0,True,Crime
+Fruitvale Station,79,55,17,7,True,Crime
 "Fugitive, The",0,0,0,0,[],Crime
 Full Metal Jacket,0,0,0,0,[],Crime
-Funny People,47,27,18,2,True,Crime
+Funny People,105,81,22,2,True,Crime
 Fury,0,0,0,0,[],Crime
-G.I. Jane,8,2,5,1,True,Crime
+G.I. Jane,15,8,6,1,True,Crime
 G.I. Joe: The Rise of Cobra,0,0,0,0,[],Crime
 Game 6,0,0,0,0,[],Crime
-"Game, The",19,12,7,0,True,Crime
-Gamer,17,6,10,1,True,Crime
+"Game, The",51,42,9,0,True,Crime
+Gamer,39,28,10,1,True,Crime
 Gandhi,0,0,0,0,[],Crime
-Gang Related,23,12,10,1,True,Crime
+Gang Related,40,28,11,1,True,Crime
 Gangs of New York,0,0,0,0,[],Crime
-Garden State,26,19,7,0,True,Crime
-Gattaca,1,1,0,0,True,Crime
-Get Carter,3,0,3,0,True,Crime
-Get Low,1,0,0,1,True,Crime
-Get on Up,6,2,4,0,True,Crime
-Get Out,14,7,6,1,True,Crime
+Garden State,57,49,8,0,True,Crime
+Gattaca,2,2,0,0,True,Crime
+Get Carter,4,1,3,0,True,Crime
+Get Low,2,1,0,1,True,Crime
+Get on Up,10,4,5,1,True,Crime
+Get Out,24,16,7,1,True,Crime
 Get Shorty,0,0,0,0,[],Crime
 "Getaway, The",0,0,0,0,[],Crime
-Ghost,1,1,0,0,True,Crime
-"Ghost and the Darkness, The",3,1,1,1,True,Crime
-Ghost Rider,11,8,3,0,True,Crime
-Ghost Ship,10,5,4,1,True,Crime
-Ghost World,11,9,1,1,True,Crime
+Ghost,2,2,0,0,True,Crime
+"Ghost and the Darkness, The",4,2,1,1,True,Crime
+Ghost Rider,41,38,3,0,True,Crime
+Ghost Ship,15,10,4,1,False,Crime
+Ghost World,23,21,1,1,True,Crime
 Ghostbusters,0,0,0,0,[],Crime
 Ghostbusters 2,1,0,1,0,True,Crime
 Ginger Snaps,0,0,0,0,[],Crime
-"Girl with the Dragon Tattoo, The",2,2,0,0,True,Crime
+"Girl with the Dragon Tattoo, The",7,7,0,0,True,Crime
 Gladiator,0,0,0,0,[],Crime
-Glengarry Glen Gross,35,26,9,0,True,Crime
-Go,18,12,5,1,True,Crime
+Glengarry Glen Gross,117,108,9,0,True,Crime
+Go,48,42,5,1,True,Crime
 Godfather,0,0,0,0,[],Crime
-Godfather Part II,1,1,0,0,True,Crime
-"Godfather Part III, The",7,0,6,1,True,Crime
-Gods and Monsters,1,1,0,0,True,Crime
+Godfather Part II,2,2,0,0,True,Crime
+"Godfather Part III, The",10,3,6,1,True,Crime
+Gods and Monsters,11,8,3,0,True,Crime
 Godzilla,0,0,0,0,[],Crime
-Gone Baby Gone,26,16,8,2,True,Crime
-Gone in 60 Seconds,13,3,10,0,True,Crime
-"Good Girl, The",2,0,2,0,True,Crime
-Good Will Hunting,23,14,8,1,True,Crime
+Gone Baby Gone,55,41,9,5,True,Crime
+Gone in 60 Seconds,21,7,14,0,True,Crime
+"Good Girl, The",6,4,2,0,True,Crime
+Good Will Hunting,39,30,8,1,True,Crime
 Goodfellas,0,0,0,0,[],Crime
-Gothika,4,1,2,1,True,Crime
-Grabbers,6,4,2,0,True,Crime
+Gothika,13,10,2,1,True,Crime
+Grabbers,9,7,2,0,True,Crime
 "Graduate, The",0,0,0,0,[],Crime
-Gran Torino,20,10,7,3,True,Crime
+Gran Torino,42,28,8,6,True,Crime
 Grand Hotel,0,0,0,0,[],Crime
-Grand Theft Parsons,2,0,1,1,True,Crime
+Grand Theft Parsons,4,2,1,1,True,Crime
 "Grapes of Wrath, The",0,0,0,0,[],Crime
-Gravity,2,0,1,1,True,Crime
+Gravity,3,1,1,1,True,Crime
 "Great Gatsby, The",1,0,0,1,True,Crime
-"Green Mile, The",9,4,4,1,True,Crime
-Gremlins,0,0,0,0,[],Crime
+"Green Mile, The",12,6,5,1,True,Crime
+Gremlins,1,1,0,0,True,Crime
 Gremlins 2,0,0,0,0,[],Crime
-"Grifters, The",4,1,3,0,True,Crime
-Grosse Point Blank,6,5,1,0,True,Crime
+"Grifters, The",6,3,3,0,True,Crime
+Grosse Point Blank,18,17,1,0,True,Crime
 Groundhog Day,0,0,0,0,[],Crime
 "Grudge, The",0,0,0,0,[],Crime
 Guardians of the Galaxy Vol 2,0,0,0,0,[],Crime
-Hackers,6,0,6,0,True,Crime
-Hall Pass,1,0,1,0,True,Crime
-Halloween,12,4,5,3,True,Crime
+Hackers,8,1,7,0,True,Crime
+Hall Pass,2,1,1,0,True,Crime
+Halloween,19,10,6,3,True,Crime
 Halloween: The Curse of Michael Myers,0,0,0,0,[],Crime
-Hancock,4,3,1,0,True,Crime
-"Hangover, The",0,0,0,0,[],Crime
-Hanna,6,5,1,0,True,Crime
+Hancock,21,18,3,0,True,Crime
+"Hangover, The",4,3,0,1,True,Crime
+Hanna,7,5,2,0,True,Crime
 Hannah and Her Sisters,1,1,0,0,True,Crime
 Hannibal,2,2,0,0,True,Crime
-"Happy Birthday, Wanda June",5,1,4,0,True,Crime
+"Happy Birthday, Wanda June",9,5,4,0,True,Crime
 Happy Feet,0,0,0,0,[],Crime
-Hard Rain,3,1,2,0,True,Crime
-Hard to Kill,9,3,5,1,True,Crime
-Harold and Kumar Go to White Castle,35,19,15,1,True,Crime
+Hard Rain,4,2,2,0,True,Crime
+Hard to Kill,21,15,5,1,True,Crime
+Harold and Kumar Go to White Castle,64,47,16,1,True,Crime
 Harry Potter and the Chamber of Secrets,0,0,0,0,[],Crime
 Harry Potter and the Deathly Hallows Part 1,0,0,0,0,[],Crime
 Harry Potter and the Goblet of Fire,0,0,0,0,[],Crime
 Harry Potter and the Half-Blood Prince,0,0,0,0,[],Crime
 Harry Potter and the Prisoner of Azkaban,0,0,0,0,[],Crime
 Harry Potter and the Sorcerer's Stone,0,0,0,0,[],Crime
-"Haunting, The",0,0,0,0,[],Crime
-He's Just Not That Into You,5,1,4,0,True,Crime
-Heat,19,17,1,1,True,Crime
-Heathers,8,3,4,1,True,Crime
+"Haunting, The",1,1,0,0,True,Crime
+He's Just Not That Into You,7,1,6,0,True,Crime
+Heat,41,39,1,1,True,Crime
+Heathers,25,19,4,2,True,Crime
 Heavenly Creatures,0,0,0,0,[],Crime
 Heavy Metal,1,0,1,0,True,Crime
-"Hebrew Hammer, The",4,1,2,1,True,Crime
-Heist,4,3,0,1,True,Crime
+"Hebrew Hammer, The",11,5,5,1,True,Crime
+Heist,9,8,0,1,True,Crime
 Hellbound: Hellraiser II,0,0,0,0,[],Crime
 Hellboy,0,0,0,0,[],Crime
 Hellboy 2: The Golden Army,0,0,0,0,[],Crime
-Hellraiser,1,1,0,0,True,Crime
+Hellraiser,11,11,0,0,True,Crime
 Hellraiser 3: Hell on Earth,0,0,0,0,[],Crime
 Hellraiser: Deader,0,0,0,0,[],Crime
 Hellraiser: Hellseeker,0,0,0,0,[],Crime
 "Help, The",0,0,0,0,[],Crime
-Henry Fool,4,2,2,0,True,Crime
-Henry's Crime,3,2,1,0,True,Crime
-Her,9,8,1,0,True,Crime
-Hesher,34,26,8,0,True,Crime
-High Fidelity,16,12,4,0,True,Crime
+Henry Fool,10,8,2,0,True,Crime
+Henry's Crime,11,9,2,0,True,Crime
+Her,25,24,1,0,True,Crime
+Hesher,71,63,8,0,True,Crime
+High Fidelity,58,53,5,0,True,Crime
 Highlander,1,0,0,1,True,Crime
 Highlander: Endgame,0,0,0,0,[],Crime
-"Hills Have Eyes, The",1,1,0,0,True,Crime
+"Hills Have Eyes, The",7,6,1,0,True,Crime
 His Girl Friday,0,0,0,0,[],Crime
 Hitchcock,0,0,0,0,[],Crime
 "Hitchhiker's Guide to the Galaxy, The",0,0,0,0,[],Crime
-Hollow Man,5,3,2,0,True,Crime
+Hollow Man,16,14,2,0,True,Crime
 Honeydripper,1,0,1,0,True,Crime
-Horrible Bosses,20,15,5,0,True,Crime
-"Horse Whisperer, The",0,0,0,0,[],Crime
+Horrible Bosses,36,31,5,0,True,Crime
+"Horse Whisperer, The",1,1,0,0,True,Crime
 "Hospital, The",6,1,1,4,True,Crime
-Hostage,16,7,8,1,True,Crime
-Hot Tub Time Machine,27,19,8,0,True,Crime
-Hotel Rwanda,2,2,0,0,True,Crime
-House of 1000 Corpses,29,15,12,2,True,Crime
+Hostage,42,33,8,1,True,Crime
+Hot Tub Time Machine,61,51,10,0,True,Crime
+Hotel Rwanda,7,7,0,0,True,Crime
+House of 1000 Corpses,85,69,12,4,True,Crime
 How to Lose Friends & Alienate People,0,0,0,0,[],Crime
 How to Train Your Dragon,0,0,0,0,[],Crime
 How to Train Your Dragon 2,0,0,0,0,[],Crime
-Hudson Hawk,4,0,3,1,True,Crime
+Hudson Hawk,16,11,4,1,True,Crime
 "Hudsucker Proxy, The",0,0,0,0,[],Crime
-Human Nature,6,4,0,2,True,Crime
-"Hunt for Red October, The",1,1,0,0,True,Crime
-"Hurt Locker, The",10,5,5,0,True,Crime
+Human Nature,14,12,0,2,True,Crime
+"Hunt for Red October, The",3,3,0,0,True,Crime
+"Hurt Locker, The",22,16,6,0,True,Crime
 I Am Number Four,0,0,0,0,[],Crime
-I am Sam,1,0,1,0,True,Crime
-I Love You Phillip Morris,9,3,5,1,True,Crime
-I Spit on Your Grave,15,6,9,0,True,Crime
+I am Sam,2,1,1,0,True,Crime
+I Love You Phillip Morris,31,25,5,1,True,Crime
+I Spit on Your Grave,33,20,11,2,True,Crime
 I Still Know What You Did Last Summer,0,0,0,0,[],Crime
-I'll Do Anything,7,6,1,0,True,Crime
+I'll Do Anything,8,7,1,0,True,Crime
 "I, Robot",1,0,1,0,True,Crime
-"Ice Storm, The",3,0,3,0,True,Crime
-"Ides of March, The",17,10,7,0,True,Crime
+"Ice Storm, The",5,2,3,0,True,Crime
+"Ides of March, The",54,46,8,0,True,Crime
 "Imaginarium of Doctor Parnassus, The",2,1,1,0,True,Crime
-In the Bedroom,4,1,1,2,True,Crime
-In the Loop,26,17,8,1,True,Crime
+In the Bedroom,6,3,1,2,True,Crime
+In the Loop,136,126,9,1,True,Crime
 Inception,0,0,0,0,[],Crime
 "Incredibles, The",0,0,0,0,[],Crime
 Independence Day,2,2,0,0,True,Crime
@@ -587,444 +587,444 @@ Indiana Jones and the Last Crusade,0,0,0,0,[],Crime
 Indiana Jones and the Raiders of the Lost Ark,0,0,0,0,[],Crime
 Indiana Jones and the Temple of Doom,0,0,0,0,[],Crime
 Indiana Jones IV,0,0,0,0,[],Crime
-"Informant, The",6,2,4,0,True,Crime
-Inglourious Basterds,11,9,1,1,True,Crime
+"Informant, The",14,10,4,0,True,Crime
+Inglourious Basterds,28,26,1,1,True,Crime
 Innerspace,0,0,0,0,[],Crime
-"Insider, The",10,8,2,0,True,Crime
-Insidious,5,3,1,1,True,Crime
-Insomnia,6,3,2,1,True,Crime
+"Insider, The",37,35,2,0,True,Crime
+Insidious,9,7,1,1,True,Crime
+Insomnia,15,12,2,1,True,Crime
 Interstellar,0,0,0,0,[],Crime
 Interview with the Vampire,1,0,1,0,True,Crime
-Into the Wild,1,0,1,0,True,Crime
+Into the Wild,3,2,1,0,True,Crime
 Into the Woods,0,0,0,0,[],Crime
 Intolerable Cruelty,4,1,2,1,True,Crime
-Inventing the Abbotts,8,5,3,0,True,Crime
-"Invention of Lying, The",8,4,4,0,True,Crime
+Inventing the Abbotts,17,14,3,0,True,Crime
+"Invention of Lying, The",22,14,7,1,True,Crime
 Invictus,0,0,0,0,[],Crime
 "Iron Lady, The",0,0,0,0,[],Crime
-"Island, The",7,7,0,0,True,Crime
-It,7,1,6,0,True,Crime
+"Island, The",16,16,0,0,True,Crime
+It,9,2,7,0,True,Crime
 It Happened One Night,0,0,0,0,[],Crime
 It Happened One Night,0,0,0,0,[],Crime
 It's a Wonderful Life,0,0,0,0,[],Crime
 It's Complicated,1,0,0,1,True,Crime
-"Italian Job, The",4,1,3,0,True,Crime
-"Jacket, The",7,4,3,0,True,Crime
-Jackie Brown,64,33,26,5,True,Crime
-Jacob's Ladder,5,2,2,1,True,Crime
+"Italian Job, The",7,4,3,0,True,Crime
+"Jacket, The",19,15,4,0,True,Crime
+Jackie Brown,75,44,26,5,True,Crime
+Jacob's Ladder,18,15,2,1,True,Crime
 Jade,0,0,0,0,[],Crime
 Jane Eyre,0,0,0,0,[],Crime
-Jason X,13,4,7,2,True,Crime
+Jason X,24,14,7,3,True,Crime
 Jaws,0,0,0,0,[],Crime
-Jaws 2,2,0,1,1,True,Crime
-Jay and Silent Bob Strike Back,103,56,42,5,True,Crime
-Jennifer Eight,26,13,11,2,True,Crime
-Jennifer's Body,4,2,2,0,True,Crime
-Jerry Maguire,4,3,1,0,True,Crime
+Jaws 2,4,0,3,1,True,Crime
+Jay and Silent Bob Strike Back,195,142,43,10,True,Crime
+Jennifer Eight,55,42,11,2,True,Crime
+Jennifer's Body,18,16,2,0,True,Crime
+Jerry Maguire,14,10,4,0,True,Crime
 Jeux Interdits,0,0,0,0,[],Crime
-JFK,12,5,7,0,True,Crime
-Jimmy and Judy,35,21,12,2,True,Crime
-John Q,6,0,5,1,True,Crime
-John Wick,12,11,1,0,True,Crime
-Joker,16,10,6,0,True,Crime
-Judge Dredd,1,1,0,0,True,Crime
-Juno,3,0,2,1,True,Crime
+JFK,27,19,8,0,True,Crime
+Jimmy and Judy,107,89,16,2,True,Crime
+John Q,7,1,5,1,True,Crime
+John Wick,23,22,1,0,True,Crime
+Joker,40,33,7,0,True,Crime
+Judge Dredd,6,5,0,1,True,Crime
+Juno,6,2,3,1,True,Crime
 Jurassic Park,0,0,0,0,[],Crime
 Jurassic Park III,0,0,0,0,[],Crime
 Jurassic Park: The Lost World,0,0,0,0,[],Crime
 Kafka,0,0,0,0,[],Crime
-Kalifornia,11,6,4,1,True,Crime
+Kalifornia,23,18,4,1,True,Crime
 Kate & Leopold,0,0,0,0,[],Crime
-Kids,39,20,17,2,True,Crime
-"Kids Are All Right, The",7,3,3,1,True,Crime
+Kids,76,57,17,2,True,Crime
+"Kids Are All Right, The",28,22,5,1,True,Crime
 Kill Bill Volume 1 & 2,0,0,0,0,[],Crime
-Kill Your Darlings,2,1,0,1,True,Crime
-Killing Zoe,31,25,4,2,True,Crime
+Kill Your Darlings,10,9,0,1,True,Crime
+Killing Zoe,82,75,5,2,True,Crime
 King Kong,0,0,0,0,[],Crime
 "King of Comedy, The",0,0,0,0,[],Crime
-"King's Speech, The",0,0,0,0,[],Crime
-"Kingdom, The",6,4,2,0,True,Crime
+"King's Speech, The",1,0,1,0,True,Crime
+"Kingdom, The",14,12,2,0,True,Crime
 Kiss of the Spider Woman,0,0,0,0,[],Crime
 Klute,2,0,0,2,True,Crime
-Knocked Up,38,29,9,0,True,Crime
-Kramer vs Kramer,5,1,4,0,True,Crime
+Knocked Up,88,76,11,1,True,Crime
+Kramer vs Kramer,7,2,4,1,True,Crime
 Kundun,0,0,0,0,[],Crime
 Kung Fu Panda,0,0,0,0,[],Crime
-L.A. Confidential,15,11,4,0,True,Crime
-La La Land,0,0,0,0,[],Crime
-Labor of Love,3,1,1,1,True,Crime
+L.A. Confidential,32,28,4,0,True,Crime
+La La Land,2,2,0,0,True,Crime
+Labor of Love,5,2,2,1,True,Crime
 Labyrinth,0,0,0,0,[],Crime
-"Ladykillers, The",23,6,11,6,True,Crime
-Lake Placid,1,1,0,0,True,Crime
-Land of the Dead,8,5,3,0,True,Crime
-Larry Crowne,0,0,0,0,[],Crime
-"Last Boy Scout, The",47,29,12,6,True,Crime
-Last Chance Harvey,1,1,0,0,True,Crime
+"Ladykillers, The",39,21,12,6,True,Crime
+Lake Placid,7,7,0,0,True,Crime
+Land of the Dead,27,22,5,0,True,Crime
+Larry Crowne,3,1,2,0,True,Crime
+"Last Boy Scout, The",126,103,14,9,True,Crime
+Last Chance Harvey,3,2,1,0,True,Crime
 "Last Flight, The",0,0,0,0,[],Crime
 "Last of the Mohicans, The",0,0,0,0,[],Crime
-"Last Samurai, The",1,0,1,0,True,Crime
+"Last Samurai, The",2,1,1,0,True,Crime
 "Last Station, The",1,0,0,1,True,Crime
-Last Tango in Paris,10,7,3,0,True,Crime
-Law Abiding Citizen,23,12,10,1,True,Crime
+Last Tango in Paris,19,16,3,0,True,Crime
+Law Abiding Citizen,47,30,16,1,True,Crime
 Le Diable par la Queue,0,0,0,0,[],Crime
-Leaving Las Vegas,22,21,1,0,True,Crime
-Legally Blonde,5,1,1,3,True,Crime
+Leaving Las Vegas,33,32,1,0,True,Crime
+Legally Blonde,6,2,1,3,True,Crime
 Legend,0,0,0,0,[],Crime
-Legion,20,15,3,2,True,Crime
+Legion,36,31,3,2,True,Crime
 "LEGO Movie, The",0,0,0,0,[],Crime
 Les Miserables,1,0,0,1,True,Crime
 Les Tontons Flingueurs,0,0,0,0,[],Crime
 Lethal Weapon,0,0,0,0,[],Crime
 Lethal Weapon 4,0,0,0,0,[],Crime
-Leviathan,7,3,3,1,True,Crime
-Liar Liar,1,0,0,1,True,Crime
-Life,15,6,7,2,True,Crime
-Life As A House,7,2,5,0,True,Crime
-"Life of David Gale, The",4,3,1,0,True,Crime
+Leviathan,26,22,3,1,False,Crime
+Liar Liar,2,1,0,1,True,Crime
+Life,26,14,7,5,True,Crime
+Life As A House,20,15,5,0,True,Crime
+"Life of David Gale, The",18,17,1,0,True,Crime
 Life of Pi,0,0,0,0,[],Crime
-Light Sleeper,9,5,3,1,True,Crime
-"Limey, The",12,6,5,1,True,Crime
-Limitless,10,5,5,0,True,Crime
+Light Sleeper,23,19,3,1,True,Crime
+"Limey, The",30,23,6,1,True,Crime
+Limitless,34,27,6,1,True,Crime
 Lincoln,3,0,3,0,True,Crime
-"Lincoln Lawyer, The",10,2,7,1,True,Crime
+"Lincoln Lawyer, The",17,9,7,1,True,Crime
 "Lion King, The",0,0,0,0,[],Crime
-Little Athens,43,26,17,0,True,Crime
-Little Men,0,0,0,0,[],Crime
+Little Athens,97,80,17,0,True,Crime
+Little Men,1,1,0,0,True,Crime
 "Little Mermaid, The",0,0,0,0,[],Crime
 Little Nicky,2,0,2,0,True,Crime
-Living in Oblivion,9,7,2,0,True,Crime
-"Lock, Stock and Two Smoking Barrels",19,13,6,0,True,Crime
-Logan,12,6,6,0,True,Crime
+Living in Oblivion,36,34,2,0,True,Crime
+"Lock, Stock and Two Smoking Barrels",78,71,7,0,True,Crime
+Logan,30,23,7,0,True,Crime
 Logan's Run,0,0,0,0,[],Crime
-Lone Star,4,3,1,0,True,Crime
-"Long Kiss Goodnight, The",28,20,4,4,True,Crime
-Looper,14,13,1,0,True,Crime
-Lord of Illusions,10,9,1,0,True,Crime
+Lone Star,5,4,1,0,True,Crime
+"Long Kiss Goodnight, The",81,71,5,5,True,Crime
+Looper,27,24,3,0,True,Crime
+Lord of Illusions,26,25,1,0,True,Crime
 "Lord of the Rings: Fellowship of the Ring, The",0,0,0,0,[],Crime
 Lord of the Rings: Return of the King,0,0,0,0,[],Crime
 Lord of the Rings: The Two Towers,0,0,0,0,[],Crime
-Lord of War,13,13,0,0,True,Crime
-"Losers, The",2,0,2,0,True,Crime
-Lost Highway,5,2,2,1,True,Crime
+Lord of War,39,39,0,0,True,Crime
+"Losers, The",7,1,6,0,True,Crime
+Lost Highway,14,11,2,1,True,Crime
 Lost Horizon,0,0,0,0,[],Crime
 Lost in Space,0,0,0,0,[],Crime
-Lost in Translation,1,1,0,0,True,Crime
-Love and Basketball,10,4,5,1,True,Crime
-Machete,12,11,1,0,True,Crime
-Machine Gun Preacher,12,7,5,0,True,Crime
+Lost in Translation,2,2,0,0,True,Crime
+Love and Basketball,14,8,5,1,True,Crime
+Machete,33,31,2,0,True,Crime
+Machine Gun Preacher,30,21,8,1,True,Crime
 Mad Max 2: The Road Warrior,0,0,0,0,[],Crime
-Made,56,25,29,2,True,Crime
-Magnolia,62,44,14,4,True,Crime
+Made,113,82,29,2,True,Crime
+Magnolia,132,111,16,5,True,Crime
 "Majestic, The (The Bijou)",0,0,0,0,[],Crime
-Major League,6,1,5,0,True,Crime
-Malcolm X,6,0,4,2,True,Crime
-Malibu's Most Wanted,4,1,1,2,True,Crime
+Major League,8,2,5,1,True,Crime
+Malcolm X,7,0,4,3,True,Crime
+Malibu's Most Wanted,10,1,1,8,True,Crime
 Man in the Iron Mask,1,0,1,0,True,Crime
-Man On Fire,6,5,1,0,True,Crime
-Man on the Moon,2,2,0,0,True,Crime
-Man Trouble,6,2,3,1,True,Crime
+Man On Fire,12,10,2,0,True,Crime
+Man on the Moon,12,12,0,0,True,Crime
+Man Trouble,10,3,6,1,True,Crime
 "Man Who Knew Too Much, The",0,0,0,0,[],Crime
 "Man Who Wasn't There, The",0,0,0,0,[],Crime
-"Manchurian Candidate, The",9,2,7,0,True,Crime
+"Manchurian Candidate, The",12,5,7,0,True,Crime
 Manhattan Murder Mystery,0,0,0,0,[],Crime
-Manhunter,3,2,1,0,True,Crime
-Margaret,9,4,5,0,True,Crime
-Margin Call,20,13,7,0,True,Crime
-Margot at the Wedding,7,6,1,0,True,Crime
+Manhunter,7,5,2,0,True,Crime
+Margaret,40,33,7,0,True,Crime
+Margin Call,66,59,7,0,True,Crime
+Margot at the Wedding,32,31,1,0,True,Crime
 "Mariachi, El",0,0,0,0,[],Crime
 Marley & Me,0,0,0,0,[],Crime
-Martha Marcy May Marlene,6,4,2,0,True,Crime
-"Martian, The",1,0,1,0,True,Crime
+Martha Marcy May Marlene,13,11,2,0,True,Crime
+"Martian, The",2,1,1,0,True,Crime
 Marty,0,0,0,0,[],Crime
 Mary Poppins,0,0,0,0,[],Crime
 "Mask, The",4,0,0,4,True,Crime
 Master and Commander,0,0,0,0,[],Crime
-"Master, The",2,2,0,0,True,Crime
+"Master, The",9,9,0,0,True,Crime
 Matchstick Men,0,0,0,0,[],Crime
-"Matrix Reloaded, The",8,7,1,0,True,Crime
-"Matrix, The",3,2,1,0,True,Crime
+"Matrix Reloaded, The",21,20,1,0,True,Crime
+"Matrix, The",5,4,1,0,True,Crime
 Max Payne,1,0,1,0,True,Crime
-Mean Streets,4,2,2,0,True,Crime
-"Mechanic, The",2,1,1,0,True,Crime
-Meet Joe Black,0,0,0,0,[],Crime
+Mean Streets,6,4,2,0,True,Crime
+"Mechanic, The",7,6,1,0,True,Crime
+Meet Joe Black,3,3,0,0,True,Crime
 Meet John Doe,0,0,0,0,[],Crime
 Megamind,1,0,1,0,True,Crime
-Memento,21,17,4,0,True,Crime
-Men in Black,4,0,4,0,True,Crime
+Memento,52,48,4,0,True,Crime
+Men in Black,5,0,5,0,True,Crime
 Men in Black 3,1,0,1,0,True,Crime
-"Men Who Stare at Goats, The",2,2,0,0,True,Crime
-Metro,25,10,12,3,True,Crime
-Miami Vice,8,8,0,0,True,Crime
-Midnight Cowboy,0,0,0,0,[],Crime
-Midnight Express,33,26,6,1,True,Crime
+"Men Who Stare at Goats, The",14,14,0,0,True,Crime
+Metro,51,36,12,3,True,Crime
+Miami Vice,15,15,0,0,True,Crime
+Midnight Cowboy,1,0,0,1,True,Crime
+Midnight Express,47,40,6,1,True,Crime
 Midnight in Paris,0,0,0,0,[],Crime
 Mighty Joe Young,0,0,0,0,[],Crime
 Mighty Morphin Power Rangers: The Movie,0,0,0,0,[],Crime
-Milk,6,1,5,0,True,Crime
+Milk,11,5,6,0,True,Crime
 Miller's Crossing,0,0,0,0,[],Crime
-Mimic,5,4,1,0,True,Crime
-Mini's First Time,8,6,1,1,True,Crime
-Minority Report,5,4,1,0,True,Crime
+Mimic,14,12,2,0,True,Crime
+Mini's First Time,27,25,1,1,True,Crime
+Minority Report,10,9,1,0,True,Crime
 "Miracle Worker, The",0,0,0,0,[],Crime
-Mirrors,0,0,0,0,[],Crime
-Misery,4,1,1,2,True,Crime
+Mirrors,3,3,0,0,True,Crime
+Misery,5,2,1,2,True,Crime
 Mission Impossible,1,0,0,1,True,Crime
 Mission Impossible II,2,0,1,1,True,Crime
 Mission to Mars,1,0,1,0,True,Crime
-Moneyball,8,4,4,0,True,Crime
+Moneyball,11,7,4,0,True,Crime
 Monkeybone,0,0,0,0,[],Crime
 Monster's Ball,0,0,0,0,[],Crime
 Monte Carlo,0,0,0,0,[],Crime
-Moon,8,3,5,0,True,Crime
+Moon,17,12,5,0,True,Crime
 Moonrise Kingdom,0,0,0,0,[],Crime
 Moonstruck,1,0,1,0,True,Crime
 Mr Blandings Builds His Dream House,0,0,0,0,[],Crime
-Mr Brooks,7,5,1,1,True,Crime
+Mr Brooks,25,23,1,1,True,Crime
 Mr Deeds Goes to Town,0,0,0,0,[],Crime
 Mr. Holland's Opus,0,0,0,0,[],Crime
 Mrs. Brown,1,0,1,0,True,Crime
-Mud,10,0,9,1,True,Crime
+Mud,11,0,10,1,True,Crime
 Mulan,0,0,0,0,[],Crime
 Mulholland Drive,1,0,0,1,True,Crime
-Mumford,2,0,2,0,True,Crime
+Mumford,6,4,2,0,True,Crime
 "Mummy, The",1,0,1,0,True,Crime
 Music of the Heart,1,0,1,0,True,Crime
-Mute Witness,2,0,2,0,True,Crime
-My Best Friend's Wedding,8,1,6,1,True,Crime
-My Girl,0,0,0,0,[],Crime
-My Mother Dreams the Satan's Disciples in New York,2,0,2,0,True,Crime
-My Week with Marilyn,4,3,1,0,True,Crime
+Mute Witness,5,2,3,0,True,Crime
+My Best Friend's Wedding,17,9,7,1,True,Crime
+My Girl,1,0,1,0,True,Crime
+My Mother Dreams the Satan's Disciples in New York,5,3,2,0,True,Crime
+My Week with Marilyn,11,10,1,0,True,Crime
 Mystery Men,0,0,0,0,[],Crime
 Napoleon Dynamite,0,0,0,0,[],Crime
 Nashville,0,0,0,0,[],Crime
-Natural Born Killers,22,2,15,5,True,Crime
-Never Been Kissed,2,0,2,0,True,Crime
+Natural Born Killers,41,19,15,7,True,Crime
+Never Been Kissed,3,1,2,0,True,Crime
 "Neverending Story, The",0,0,0,0,[],Crime
-New York Minute,0,0,0,0,[],Crime
+New York Minute,1,0,1,0,True,Crime
 Newsies,0,0,0,0,[],Crime
 Next,1,0,1,0,True,Crime
-Next Friday,18,9,7,2,True,Crime
+Next Friday,26,14,8,4,True,Crime
 "Next Three Days, The",3,1,1,1,True,Crime
 Ni vu ni connu,0,0,0,0,[],Crime
-Nick of Time,7,4,2,1,True,Crime
+Nick of Time,14,11,2,1,True,Crime
 Night Time (The Poltergeist Treatment),1,0,1,0,True,Crime
-Nightbreed,4,3,1,0,True,Crime
+Nightbreed,10,9,1,0,True,Crime
 "Nightmare Before Christmas, The",0,0,0,0,[],Crime
 "Nightmare Before Christmas, The",0,0,0,0,[],Crime
-"Nightmare on Elm Street, A",5,3,2,0,True,Crime
+"Nightmare on Elm Street, A",8,6,2,0,True,Crime
 Nightmare on Elm Street: The Final Chapter,0,0,0,0,[],Crime
 Nine,0,0,0,0,[],Crime
-"Nines, The",3,1,2,0,True,Crime
-Ninja Assassin,3,3,0,0,True,Crime
+"Nines, The",14,9,5,0,True,Crime
+Ninja Assassin,14,14,0,0,True,Crime
 Ninotchka,0,0,0,0,[],Crime
 "Ninth Gate, The",1,1,0,0,True,Crime
-No Country for Old Men,0,0,0,0,[],Crime
-No Strings Attached,9,6,2,1,True,Crime
+No Country for Old Men,1,0,0,1,True,Crime
+No Strings Attached,15,12,2,1,True,Crime
 Notting Hill,2,0,2,0,True,Crime
-Nurse Betty,24,12,10,2,True,Crime
+Nurse Betty,49,35,12,2,True,Crime
 O Brother Where Art Thou?,0,0,0,0,[],Crime
 Oblivion,0,0,0,0,[],Crime
-Observe and Report,44,24,19,1,True,Crime
-Obsessed,0,0,0,0,[],Crime
-Ocean's Eleven,7,2,5,0,True,Crime
-Ocean's Twelve,2,0,2,0,True,Crime
-Office Space,5,2,3,0,True,Crime
+Observe and Report,90,66,23,1,True,Crime
+Obsessed,5,5,0,0,True,Crime
+Ocean's Eleven,11,6,5,0,True,Crime
+Ocean's Twelve,3,1,2,0,True,Crime
+Office Space,11,8,3,0,True,Crime
 "Officer and a Gentleman, An",0,0,0,0,[],Crime
 Omega Man,0,0,0,0,[],Crime
-One Flew Over the Cuckoo's Nest,1,1,0,0,True,Crime
-Only God Forgives,7,7,0,0,True,Crime
-Ordinary People,6,4,2,0,True,Crime
+One Flew Over the Cuckoo's Nest,5,5,0,0,True,Crime
+Only God Forgives,22,22,0,0,True,Crime
+Ordinary People,10,8,2,0,True,Crime
 Orgy of the Dead,0,0,0,0,[],Crime
-Orphan,3,1,2,0,True,Crime
+Orphan,8,5,3,0,True,Crime
 "Other Boleyn Girl, The",0,0,0,0,[],Crime
-Out of Sight,26,13,13,0,True,Crime
+Out of Sight,45,29,16,0,True,Crime
 Outbreak,0,0,0,0,[],Crime
 "Pacifier, The",0,0,0,0,[],Crime
-Pandorum,3,2,1,0,True,Crime
-Panic Room,13,9,4,0,True,Crime
+Pandorum,23,22,1,0,True,Crime
+Panic Room,27,23,4,0,True,Crime
 Papadopoulos & Sons,0,0,0,0,[],Crime
 ParaNorman,0,0,0,0,[],Crime
-Pariah,7,4,3,0,True,Crime
+Pariah,11,8,3,0,True,Crime
 Passengers,1,0,0,1,True,Crime
 "Passion of Joan of Arc, The",0,0,0,0,[],Crime
 "Patriot, The",0,0,0,0,[],Crime
-Paul,6,3,3,0,True,Crime
-Pearl Harbor,14,4,8,2,True,Crime
+Paul,20,17,3,0,True,Crime
+Pearl Harbor,15,5,8,2,True,Crime
 Peeping Tom,0,0,0,0,[],Crime
 Peggy Sue Got Married,1,0,1,0,True,Crime
-Perfect Creature,3,1,2,0,True,Crime
+Perfect Creature,10,8,2,0,True,Crime
 "Perfect World, A",4,0,4,0,True,Crime
-"Perks of Being a Wallflower, The",4,0,3,1,True,Crime
-Pet Sematary,4,0,4,0,True,Crime
-Pet Sematary II,3,1,2,0,True,Crime
+"Perks of Being a Wallflower, The",6,1,4,1,True,Crime
+Pet Sematary,6,2,4,0,True,Crime
+Pet Sematary II,10,8,2,0,True,Crime
 Petulia,0,0,0,0,[],Crime
-Philadelphia,5,2,2,1,True,Crime
-Phone Booth,10,7,2,1,True,Crime
-Pi,4,3,1,0,True,Crime
-"Pianist, The",2,1,1,0,True,Crime
+Philadelphia,20,17,2,1,True,Crime
+Phone Booth,48,43,4,1,True,Crime
+Pi,11,10,1,0,True,Crime
+"Pianist, The",5,4,1,0,True,Crime
 "Piano, The",1,0,1,0,True,Crime
-Pineapple Express,58,31,26,1,True,Crime
+Pineapple Express,135,105,29,1,True,Crime
 Pirates of the Caribbean,0,0,0,0,[],Crime
 Pirates of the Caribbean: Dead Man's Chest,0,0,0,0,[],Crime
-Pitch Black,4,2,2,0,True,Crime
+Pitch Black,22,20,2,0,True,Crime
 "Planet of the Apes, The",0,0,0,0,[],Crime
 Platinum Blonde,0,0,0,0,[],Crime
-Platoon,55,19,33,3,True,Crime
-Pleasantville,1,0,1,0,True,Crime
-Point Break,17,10,6,1,True,Crime
+Platoon,114,71,40,3,True,Crime
+Pleasantville,2,1,1,0,True,Crime
+Point Break,45,36,8,1,True,Crime
 Pokemon: Mewtwo Returns,0,0,0,0,[],Crime
-"Postman, The",0,0,0,0,[],Crime
+"Postman, The",3,2,1,0,True,Crime
 "Power of One, The",1,0,1,0,True,Crime
-Precious,18,2,9,7,True,Crime
-Predator,3,0,2,1,True,Crime
-"Prestige, The",0,0,0,0,[],Crime
-Pretty Woman,2,0,1,1,True,Crime
+Precious,23,6,9,8,True,Crime
+Predator,8,4,3,1,True,Crime
+"Prestige, The",1,0,1,0,True,Crime
+Pretty Woman,7,4,1,2,True,Crime
 Pretty Woman (final script),3,2,1,0,True,Crime
 Pride and Prejudice,0,0,0,0,[],Crime
-Priest,0,0,0,0,[],Crime
+Priest,1,0,1,0,True,Crime
 "Princess Bride, The",0,0,0,0,[],Crime
 "Private Life of Sherlock Holmes, The",0,0,0,0,[],Crime
 "Producer, The",0,0,0,0,[],Crime
-"Program, The",13,1,12,0,True,Crime
+"Program, The",22,7,15,0,True,Crime
 Prom Night,0,0,0,0,[],Crime
-Prometheus,0,0,0,0,[],Crime
-"Prophecy, The",5,1,2,2,True,Crime
-"Proposal, The",2,0,2,0,True,Crime
+Prometheus,3,3,0,0,True,Crime
+"Prophecy, The",16,12,2,2,True,Crime
+"Proposal, The",3,0,2,1,True,Crime
 Psycho,0,0,0,0,[],Crime
-Public Enemies,1,0,1,0,True,Crime
-Pulp Fiction,70,25,37,8,True,Crime
-Punch-Drunk Love,9,6,3,0,True,Crime
-Purple Rain,4,3,0,1,True,Crime
+Public Enemies,3,2,1,0,True,Crime
+Pulp Fiction,88,41,39,8,True,Crime
+Punch-Drunk Love,27,23,4,0,True,Crime
+Purple Rain,14,10,2,2,True,Crime
 Quantum Project,0,0,0,0,[],Crime
 Queen of the Damned,0,0,0,0,[],Crime
 "Queen, The",0,0,0,0,[],Crime
-Rachel Getting Married,4,1,3,0,True,Crime
-Raging Bull,16,16,0,0,True,Crime
-Raising Arizona,2,0,2,0,True,Crime
-Rambling Rose,7,0,2,5,True,Crime
+Rachel Getting Married,13,9,4,0,True,Crime
+Raging Bull,25,25,0,0,True,Crime
+Raising Arizona,5,0,5,0,True,Crime
+Rambling Rose,8,0,2,6,True,Crime
 Rambo: First Blood II: The Mission,0,0,0,0,[],Crime
 "Reader, The",0,0,0,0,[],Crime
 Real Genius,0,0,0,0,[],Crime
 Rear Window,0,0,0,0,[],Crime
 Rebel Without A Cause,0,0,0,0,[],Crime
-Red Planet,5,3,1,1,True,Crime
+Red Planet,25,22,2,1,True,Crime
 Red Riding Hood,0,0,0,0,[],Crime
-Reindeer Games,18,14,4,0,True,Crime
+Reindeer Games,39,34,5,0,True,Crime
 "Relic, The",3,0,3,0,True,Crime
-Remember Me,3,2,1,0,True,Crime
-"Replacements, The",14,7,7,0,True,Crime
-Repo Man,27,10,17,0,True,Crime
+Remember Me,4,3,1,0,True,Crime
+"Replacements, The",18,11,7,0,True,Crime
+Repo Man,66,43,23,0,True,Crime
 "Rescuers Down Under, The",0,0,0,0,[],Crime
-Reservoir Dogs,73,45,22,6,True,Crime
-Resident Evil,8,1,7,0,True,Crime
-Return of the Apes,3,1,2,0,True,Crime
-"Revenant, The",3,1,0,2,True,Crime
-Revolutionary Road,3,3,0,0,True,Crime
+Reservoir Dogs,119,89,23,7,True,Crime
+Resident Evil,13,5,8,0,True,Crime
+Return of the Apes,10,8,2,0,True,Crime
+"Revenant, The",4,1,1,2,True,Crime
+Revolutionary Road,11,11,0,0,True,Crime
 Ringu,0,0,0,0,[],Crime
 Rise of the Guardians,0,0,0,0,[],Crime
 Rise of the Planet of the Apes,0,0,0,0,[],Crime
-RKO 281,10,8,1,1,True,Crime
-"Road, The",2,2,0,0,True,Crime
+RKO 281,27,23,3,1,True,Crime
+"Road, The",3,3,0,0,True,Crime
 Robin Hood: Prince of Thieves,0,0,0,0,[],Crime
 Robocop,0,0,0,0,[],Crime
-"Rock, The",17,10,7,0,True,Crime
-RocknRolla,12,8,4,0,True,Crime
-Rocky,0,0,0,0,[],Crime
+"Rock, The",43,33,10,0,True,Crime
+RocknRolla,21,17,4,0,True,Crime
+Rocky,1,1,0,0,True,Crime
 "Rocky Horror Picture Show, The",1,1,0,0,True,Crime
 Romeo & Juliet,0,0,0,0,[],Crime
-Ronin,14,8,5,1,True,Crime
+Ronin,35,29,5,1,True,Crime
 Room,2,2,0,0,True,Crime
 "Roommate, The",3,0,2,1,True,Crime
 Roughshod,0,0,0,0,[],Crime
-"Ruins, The",2,2,0,0,True,Crime
+"Ruins, The",17,17,0,0,True,Crime
 Runaway Bride,0,0,0,0,[],Crime
-Rush,2,1,1,0,True,Crime
-Rush Hour,9,3,6,0,True,Crime
-Rush Hour 2,5,0,4,1,True,Crime
+Rush,6,5,1,0,True,Crime
+Rush Hour,15,9,6,0,True,Crime
+Rush Hour 2,6,0,5,1,True,Crime
 Rushmore,0,0,0,0,[],Crime
-Rust and Bone,6,6,0,0,True,Crime
-S. Darko,10,5,5,0,True,Crime
+Rust and Bone,15,14,1,0,True,Crime
+S. Darko,29,23,6,0,True,Crime
 "Saint, The",1,0,1,0,True,Crime
-"Salton Sea, The",16,11,5,0,True,Crime
+"Salton Sea, The",40,34,5,1,True,Crime
 "Sandlot Kids, The",1,0,1,0,True,Crime
-Save the Last Dance,38,10,23,5,True,Crime
+Save the Last Dance,52,24,23,5,True,Crime
 Saving Mr. Banks,0,0,0,0,[],Crime
-Saving Private Ryan,10,7,3,0,True,Crime
-Saw,8,4,4,0,True,Crime
-Scarface,60,44,16,0,True,Crime
+Saving Private Ryan,23,20,3,0,True,Crime
+Saw,23,19,4,0,True,Crime
+Scarface,99,83,16,0,True,Crime
 Scary Movie 2,0,0,0,0,[],Crime
-Schindler's List,1,1,0,0,True,Crime
-Scott Pilgrim vs the World,6,2,0,4,True,Crime
-Scream,12,7,5,0,True,Crime
-Scream 2,3,0,2,1,True,Crime
-Scream 3,19,7,12,0,True,Crime
-Se7en,13,9,4,0,True,Crime
+Schindler's List,5,5,0,0,True,Crime
+Scott Pilgrim vs the World,14,10,0,4,True,Crime
+Scream,26,19,6,1,True,Crime
+Scream 2,8,4,3,1,True,Crime
+Scream 3,38,25,13,0,True,Crime
+Se7en,39,35,4,0,True,Crime
 "Searchers, The",0,0,0,0,[],Crime
-"Secret Life of Walter Mitty, The",5,2,3,0,True,Crime
-Semi-Pro,12,4,8,0,True,Crime
+"Secret Life of Walter Mitty, The",14,9,5,0,True,Crime
+Semi-Pro,29,17,12,0,True,Crime
 Sense and Sensibility,1,0,0,1,True,Crime
-Serenity,0,0,0,0,[],Crime
-Serial Mom,2,1,1,0,True,Crime
-"Sessions, The",1,0,0,1,True,Crime
+Serenity,1,1,0,0,True,Crime
+Serial Mom,9,8,1,0,True,Crime
+"Sessions, The",3,2,0,1,True,Crime
 "Seventh Seal, The",0,0,0,0,[],Crime
-Sex and the City,7,3,4,0,True,Crime
-"Sex, Lies and Videotape",3,3,0,0,True,Crime
-Sexual Life,6,4,2,0,True,Crime
+Sex and the City,10,6,4,0,True,Crime
+"Sex, Lies and Videotape",12,12,0,0,True,Crime
+Sexual Life,8,6,2,0,True,Crime
 Shadow of the Vampire,0,0,0,0,[],Crime
 Shakespeare in Love,0,0,0,0,[],Crime
-Shallow Grave,0,0,0,0,[],Crime
-Shame,9,7,2,0,True,Crime
-Shampoo,15,11,4,0,True,Crime
-"Shawshank Redemption, The",28,10,16,2,True,Crime
-She's Out of My League,23,11,12,0,True,Crime
-Sherlock Holmes,0,0,0,0,[],Crime
-Shifty,23,17,6,0,True,Crime
-"Shining, The",5,5,0,0,True,Crime
-"Shipping News, The",6,3,2,1,True,Crime
+Shallow Grave,3,3,0,0,True,Crime
+Shame,52,50,2,0,True,Crime
+Shampoo,27,22,4,1,True,Crime
+"Shawshank Redemption, The",34,13,19,2,True,Crime
+She's Out of My League,42,26,16,0,True,Crime
+Sherlock Holmes,2,1,1,0,True,Crime
+Shifty,180,173,7,0,True,Crime
+"Shining, The",9,9,0,0,True,Crime
+"Shipping News, The",7,4,2,1,True,Crime
 Shivers,0,0,0,0,[],Crime
 Shrek,0,0,0,0,[],Crime
 Shrek the Third,0,0,0,0,[],Crime
-Sicario,8,5,3,0,True,Crime
-Sideways,19,16,3,0,True,Crime
-"Siege, The",13,8,3,2,True,Crime
+Sicario,30,27,3,0,True,Crime
+Sideways,59,56,3,0,True,Crime
+"Siege, The",23,16,5,2,True,Crime
 Signs,0,0,0,0,[],Crime
-Silence of the Lambs,5,3,0,2,True,Crime
-Silver Bullet,9,3,5,1,True,Crime
-Silver Linings Playbook,23,15,8,0,True,Crime
+Silence of the Lambs,11,9,0,2,True,Crime
+Silver Bullet,13,5,7,1,True,Crime
+Silver Linings Playbook,68,60,8,0,True,Crime
 Simone,0,0,0,0,[],Crime
-Single White Female,4,1,1,2,True,Crime
+Single White Female,10,5,2,3,True,Crime
 Sister Act,1,0,0,1,True,Crime
-Six Degrees of Separation,6,3,2,1,True,Crime
+Six Degrees of Separation,12,9,2,1,True,Crime
 "Sixth Sense, The",0,0,0,0,[],Crime
-Sleepless in Seattle,0,0,0,0,[],Crime
+Sleepless in Seattle,1,1,0,0,True,Crime
 Sleepy Hollow,0,0,0,0,[],Crime
-Sling Blade,9,1,4,4,True,Crime
-Slither,9,3,6,0,True,Crime
+Sling Blade,13,4,4,5,True,Crime
+Slither,18,12,6,0,True,Crime
 Slumdog Millionaire,4,1,3,0,True,Crime
-Smashed,22,11,9,2,True,Crime
-Smokin' Aces,29,11,17,1,True,Crime
-Snatch,34,29,5,0,True,Crime
+Smashed,52,36,14,2,True,Crime
+Smokin' Aces,57,32,18,7,True,Crime
+Snatch,65,59,6,0,True,Crime
 Sneakers,0,0,0,0,[],Crime
-Snow Falling On Cedars,0,0,0,0,[],Crime
+Snow Falling On Cedars,2,2,0,0,True,Crime
 Snow White and the Huntsman,0,0,0,0,[],Crime
 So I Married an Axe Murderer,1,0,1,0,True,Crime
-"Social Network, The",9,7,1,1,True,Crime
-Solaris,4,3,1,0,True,Crime
-Soldier,4,2,2,0,True,Crime
-Someone To Watch Over Me,6,5,1,0,True,Crime
-Something's Gotta Give,2,1,0,1,True,Crime
-Source Code,1,1,0,0,True,Crime
-South Park,35,20,11,4,True,Crime
+"Social Network, The",14,12,1,1,True,Crime
+Solaris,11,10,1,0,True,Crime
+Soldier,7,4,3,0,True,Crime
+Someone To Watch Over Me,16,14,2,0,True,Crime
+Something's Gotta Give,7,5,1,1,True,Crime
+Source Code,8,8,0,0,True,Crime
+South Park,94,76,13,5,True,Crime
 Space Milkshake,3,1,1,1,True,Crime
-Spanglish,0,0,0,0,[],Crime
-Spare Me,5,3,1,1,True,Crime
-Spartan,12,12,0,0,True,Crime
+Spanglish,1,1,0,0,True,Crime
+Spare Me,11,9,1,1,True,Crime
+Spartan,20,20,0,0,True,Crime
 Speed,0,0,0,0,[],Crime
 Speed Racer,0,0,0,0,[],Crime
-Sphere,5,2,3,0,True,Crime
-Spider-Man,0,0,0,0,[],Crime
-St. Elmo's Fire,4,1,3,0,True,Crime
-Star Trek,3,0,3,0,True,Crime
+Sphere,20,17,3,0,True,Crime
+Spider-Man,1,0,1,0,True,Crime
+St. Elmo's Fire,12,9,3,0,True,Crime
+Star Trek,38,31,7,0,True,Crime
 Star Trek II: The Wrath of Khan,0,0,0,0,[],Crime
 Star Trek: First Contact,0,0,0,0,[],Crime
 Star Trek: Generations,0,0,0,0,[],Crime
@@ -1038,175 +1038,175 @@ Star Wars: The Empire Strikes Back,0,0,0,0,[],Crime
 Star Wars: The Force Awakens,0,0,0,0,[],Crime
 Star Wars: The Phantom Menace,0,0,0,0,[],Crime
 Starman,0,0,0,0,[],Crime
-Starship Troopers,0,0,0,0,[],Crime
-State and Main,2,1,1,0,True,Crime
+Starship Troopers,1,0,0,1,True,Crime
+State and Main,6,5,1,0,True,Crime
 Station West,0,0,0,0,[],Crime
-Stepmom,8,4,3,1,True,Crime
+Stepmom,16,12,3,1,True,Crime
 "Sting, The",1,1,0,0,True,Crime
-Stir of Echoes,12,6,4,2,True,Crime
-Storytelling,9,7,0,2,True,Crime
-Straight Outta Compton,113,50,61,2,True,Crime
-Strange Days,15,8,6,1,True,Crime
+Stir of Echoes,19,12,5,2,True,Crime
+Storytelling,18,15,1,2,True,Crime
+Straight Outta Compton,160,89,64,7,True,Crime
+Strange Days,38,30,7,1,True,Crime
 Strangers on a Train,0,0,0,0,[],Crime
-"Stuntman, The",8,1,2,5,True,Crime
-Sugar,4,0,4,0,True,Crime
-Sugar and Spice,9,3,5,1,True,Crime
+"Stuntman, The",21,14,2,5,True,Crime
+Sugar,10,6,4,0,True,Crime
+Sugar and Spice,12,4,7,1,True,Crime
 Sunset Blvd.,0,0,0,0,[],Crime
-Sunshine Cleaning,9,2,7,0,True,Crime
-Super 8,5,0,5,0,True,Crime
-Superbad,37,15,20,2,True,Crime
+Sunshine Cleaning,17,10,7,0,True,Crime
+Super 8,14,8,6,0,True,Crime
+Superbad,102,74,20,8,True,Crime
 Superfights,0,0,0,0,[],Crime
 Supergirl,0,0,0,0,[],Crime
 "Surfer King, The",0,0,0,0,[],Crime
 Surrogates,1,0,0,1,True,Crime
-Suspect Zero,1,1,0,0,True,Crime
+Suspect Zero,20,20,0,0,True,Crime
 Sweeney Todd: The Demon Barber of Fleet Street,0,0,0,0,[],Crime
-"Sweet Hereafter, The",2,1,1,0,True,Crime
+"Sweet Hereafter, The",7,5,2,0,True,Crime
 Sweet Smell of Success,0,0,0,0,[],Crime
-Swingers,15,5,8,2,True,Crime
-Swordfish,14,10,4,0,True,Crime
-"Synecdoche, New York",12,10,2,0,True,Crime
-Syriana,2,1,1,0,True,Crime
-Take Shelter,2,1,1,0,True,Crime
-Taking Lives,10,5,3,2,True,Crime
-"Taking of Pelham One Two Three, The",6,2,3,1,True,Crime
-Taking Sides,2,2,0,0,True,Crime
-"Talented Mr. Ripley, The",2,2,0,0,True,Crime
+Swingers,22,11,8,3,True,Crime
+Swordfish,29,24,5,0,True,Crime
+"Synecdoche, New York",26,24,2,0,True,Crime
+Syriana,16,14,2,0,True,Crime
+Take Shelter,5,2,3,0,True,Crime
+Taking Lives,13,8,3,2,True,Crime
+"Taking of Pelham One Two Three, The",17,13,3,1,True,Crime
+Taking Sides,8,8,0,0,True,Crime
+"Talented Mr. Ripley, The",4,4,0,0,True,Crime
 Tall in the Saddle,0,0,0,0,[],Crime
-Tamara Drewe,13,8,4,1,True,Crime
-Taxi Driver,3,2,1,0,True,Crime
-Ted,25,11,14,0,True,Crime
-Terminator,1,1,0,0,True,Crime
+Tamara Drewe,40,34,5,1,True,Crime
+Taxi Driver,19,17,2,0,True,Crime
+Ted,65,46,19,0,True,Crime
+Terminator,9,9,0,0,True,Crime
 Terminator 2: Judgement Day,0,0,0,0,[],Crime
 Terminator Salvation,6,1,4,1,True,Crime
 The Rage: Carrie 2,0,0,0,0,[],Crime
 Thelma & Louise,0,0,0,0,[],Crime
 "Theory of Everything, The",0,0,0,0,[],Crime
-There's Something About Mary,22,16,6,0,True,Crime
-They,3,1,2,0,True,Crime
-"Thing, The",5,2,3,0,True,Crime
+There's Something About Mary,52,44,8,0,True,Crime
+They,6,3,3,0,True,Crime
+"Thing, The",8,5,3,0,True,Crime
 "Things My Father Never Taught Me, The",0,0,0,0,[],Crime
-Thirteen Days,4,0,4,0,True,Crime
-This Boy's Life,7,2,4,1,True,Crime
+Thirteen Days,11,7,4,0,True,Crime
+This Boy's Life,10,5,4,1,True,Crime
 This is 40,0,0,0,0,[],Crime
 Thor,0,0,0,0,[],Crime
 Thor Ragnarok,1,0,1,0,True,Crime
-Three Kings,20,12,8,0,True,Crime
-Three Kings (Spoils of War),3,1,1,1,True,Crime
-Three Men and a Baby,13,2,9,2,True,Crime
+Three Kings,57,49,8,0,True,Crime
+Three Kings (Spoils of War),4,2,1,1,True,Crime
+Three Men and a Baby,18,7,9,2,True,Crime
 "Three Musketeers, The",0,0,0,0,[],Crime
 Thunderbirds,0,0,0,0,[],Crime
-Thunderheart,16,7,8,1,True,Crime
-Ticker,6,5,1,0,True,Crime
-Timber Falls,10,7,1,2,True,Crime
+Thunderheart,32,22,9,1,True,Crime
+Ticker,10,9,1,0,True,Crime
+Timber Falls,28,25,1,2,True,Crime
 "Time Machine, The",0,0,0,0,[],Crime
-Tin Cup,5,2,3,0,True,Crime
-Tin Men,12,4,3,5,True,Crime
-Tinker Tailor Soldier Spy,1,1,0,0,True,Crime
-Titanic,0,0,0,0,[],Crime
+Tin Cup,14,10,4,0,True,Crime
+Tin Men,33,25,3,5,True,Crime
+Tinker Tailor Soldier Spy,6,6,0,0,True,Crime
+Titanic,3,2,0,1,True,Crime
 TMNT,0,0,0,0,[],Crime
 To Sleep with Anger,0,0,0,0,[],Crime
 Tombstone,0,0,0,0,[],Crime
 Tomorrow Never Dies,0,0,0,0,[],Crime
 Top Gun,3,0,3,0,True,Crime
-Total Recall,1,0,1,0,True,Crime
-"Tourist, The",0,0,0,0,[],Crime
+Total Recall,2,1,1,0,True,Crime
+"Tourist, The",1,1,0,0,True,Crime
 Toy Story,0,0,0,0,[],Crime
-Traffic,21,14,7,0,True,Crime
-Training Day,64,26,35,3,True,Crime
-Trainspotting,14,13,1,0,True,Crime
+Traffic,45,38,7,0,True,Crime
+Training Day,104,62,37,5,True,Crime
+Trainspotting,96,95,1,0,True,Crime
 Transformers: The Movie,0,0,0,0,[],Crime
-Tremors,1,0,1,0,True,Crime
+Tremors,8,7,1,0,True,Crime
 Tristan and Isolde,0,0,0,0,[],Crime
 TRON,0,0,0,0,[],Crime
 TRON: Legacy,0,0,0,0,[],Crime
-Tropic Thunder,15,8,6,1,True,Crime
+Tropic Thunder,24,17,6,1,True,Crime
 Troy,0,0,0,0,[],Crime
 True Grit,0,0,0,0,[],Crime
-True Lies,6,0,2,4,True,Crime
-True Romance,70,45,22,3,True,Crime
-"Truman Show, The",5,5,0,0,True,Crime
+True Lies,8,2,2,4,True,Crime
+True Romance,94,64,23,7,True,Crime
+"Truman Show, The",8,8,0,0,True,Crime
 Twilight,0,0,0,0,[],Crime
 Twilight: New Moon,0,0,0,0,[],Crime
-Twin Peaks,3,1,2,0,True,Crime
-Twins,3,1,2,0,True,Crime
-Two For The Money,33,23,7,3,True,Crime
-U Turn,24,13,11,0,True,Crime
-"Ugly Truth, The",7,4,3,0,True,Crime
+Twin Peaks,4,2,2,0,True,Crime
+Twins,4,1,3,0,True,Crime
+Two For The Money,95,85,7,3,True,Crime
+U Turn,52,39,12,1,True,Crime
+"Ugly Truth, The",11,8,3,0,True,Crime
 Un Singe en Hiver,0,0,0,0,[],Crime
-Unbreakable,1,0,1,0,True,Crime
-Under Fire,9,7,1,1,True,Crime
+Unbreakable,2,1,1,0,True,Crime
+Under Fire,18,15,2,1,True,Crime
 Unforgiven,0,0,0,0,[],Crime
-Unknown,2,0,1,1,True,Crime
+Unknown,3,1,1,1,True,Crime
 Up,0,0,0,0,[],Crime
-Up in the Air,12,6,6,0,True,Crime
-"Usual Suspects, The",8,5,3,0,True,Crime
-V for Vendetta,4,3,1,0,True,Crime
+Up in the Air,24,18,6,0,True,Crime
+"Usual Suspects, The",31,27,4,0,True,Crime
+V for Vendetta,7,6,1,0,True,Crime
 Valentine's Day,0,0,0,0,[],Crime
-Valkyrie,1,0,1,0,True,Crime
-Vanilla Sky,9,6,3,0,True,Crime
-"Verdict, The",1,1,0,0,True,Crime
+Valkyrie,5,4,1,0,True,Crime
+Vanilla Sky,28,25,3,0,True,Crime
+"Verdict, The",2,2,0,0,True,Crime
 Vertigo,0,0,0,0,[],Crime
-Very Bad Things,9,6,3,0,True,Crime
+Very Bad Things,60,57,3,0,True,Crime
 "Village, The",0,0,0,0,[],Crime
-Virtuosity,4,1,2,1,True,Crime
+Virtuosity,8,5,2,1,True,Crime
 "Visitor, The",0,0,0,0,[],Crime
-Wag the Dog,9,7,2,0,True,Crime
+Wag the Dog,24,21,3,0,True,Crime
 "Walk to Remember, A",1,0,1,0,True,Crime
 Walking Tall,1,1,0,0,True,Crime
-Wall Street,2,1,0,1,True,Crime
+Wall Street,5,3,1,1,True,Crime
 Wall Street: Money Never Sleeps,0,0,0,0,[],Crime
 Wall-E,0,0,0,0,[],Crime
-Wanted,11,5,4,2,True,Crime
-War for the Planet of the Apes,1,0,1,0,True,Crime
+Wanted,26,18,6,2,True,Crime
+War for the Planet of the Apes,2,1,1,0,True,Crime
 War Horse,0,0,0,0,[],Crime
-War of the Worlds,1,0,1,0,True,Crime
+War of the Worlds,2,0,2,0,True,Crime
 Warm Springs,0,0,0,0,[],Crime
-Warrior,6,1,5,0,True,Crime
-Watchmen,0,0,0,0,[],Crime
+Warrior,7,1,6,0,True,Crime
+Watchmen,1,0,1,0,True,Crime
 Water for Elephants,2,0,2,0,True,Crime
 "Way Back, The",1,1,0,0,True,Crime
-We Own the Night,10,5,5,0,True,Crime
+We Own the Night,20,15,5,0,True,Crime
 What About Bob?,0,0,0,0,[],Crime
-What Lies Beneath,1,1,0,0,True,Crime
+What Lies Beneath,5,5,0,0,True,Crime
 When a Stranger Calls,0,0,0,0,[],Crime
 When Harry Met Sally,0,0,0,0,[],Crime
-While She Was Out,9,2,2,5,True,Crime
-"Whistleblower, The",5,5,0,0,True,Crime
+While She Was Out,13,4,4,5,True,Crime
+"Whistleblower, The",17,17,0,0,True,Crime
 White Christmas,0,0,0,0,[],Crime
-White Jazz,10,5,4,1,True,Crime
+White Jazz,36,29,6,1,True,Crime
 "White Ribbon, The",0,0,0,0,[],Crime
-White Squall,7,2,4,1,True,Crime
-Whiteout,1,1,0,0,True,Crime
+White Squall,10,5,4,1,True,Crime
+Whiteout,4,3,1,0,True,Crime
 Who Framed Roger Rabbit?,0,0,0,0,[],Crime
-Who's Your Daddy,0,0,0,0,[],Crime
-Wild At Heart,20,12,6,2,True,Crime
+Who's Your Daddy,3,2,1,0,True,Crime
+Wild At Heart,26,16,8,2,True,Crime
 "Wild Bunch, The",1,0,0,1,True,Crime
-Wild Hogs,4,0,2,2,True,Crime
-Wild Things,10,5,3,2,True,Crime
+Wild Hogs,5,0,3,2,True,Crime
+Wild Things,25,19,4,2,True,Crime
 Wild Things: Diamonds in the Rough,0,0,0,0,[],Crime
 Wild Wild West,1,1,0,0,True,Crime
 Willow,0,0,0,0,[],Crime
-Win Win,9,4,5,0,True,Crime
+Win Win,18,13,5,0,True,Crime
 Wind Chill,5,1,4,0,True,Crime
-Withnail and I,5,5,0,0,True,Crime
+Withnail and I,32,31,0,1,True,Crime
 Witness,3,1,1,1,True,Crime
 "Wizard of Oz, The",0,0,0,0,[],Crime
-"Wolf of Wall Street, The",50,37,12,1,True,Crime
-Wonder Boys,4,3,1,0,True,Crime
+"Wolf of Wall Street, The",147,133,13,1,True,Crime
+Wonder Boys,8,7,1,0,True,Crime
 Wonder Woman,0,0,0,0,[],Crime
-"Woodsman, The",4,2,2,0,True,Crime
+"Woodsman, The",29,25,4,0,True,Crime
 "World is not Enough, The",0,0,0,0,[],Crime
-"Wrestler, The",11,6,4,1,True,Crime
+"Wrestler, The",30,23,6,1,True,Crime
 "X-Files: Fight the Future, The",0,0,0,0,[],Crime
 X-Men,0,0,0,0,[],Crime
 X-Men Origins: Wolverine,0,0,0,0,[],Crime
-xXx,3,0,2,1,True,Crime
-Year One,1,0,1,0,True,Crime
+xXx,4,0,2,2,True,Crime
+Year One,2,1,1,0,True,Crime
 Yes Man,4,1,3,0,True,Crime
-You Can Count On Me,6,0,5,1,True,Crime
-You've Got Mail,2,2,0,0,True,Crime
-Youth in Revolt,4,1,3,0,True,Crime
-Zero Dark Thirty,9,6,2,1,True,Crime
-Zerophilia,8,7,1,0,True,Crime
+You Can Count On Me,11,4,6,1,True,Crime
+You've Got Mail,4,4,0,0,True,Crime
+Youth in Revolt,5,2,3,0,True,Crime
+Zero Dark Thirty,38,35,2,1,True,Crime
+Zerophilia,14,13,1,0,True,Crime
 Zootopia,0,0,0,0,[],Crime
