@@ -15,4 +15,10 @@ But what of these "magical words" and their place on the big screen? Has the inc
   * Rating
   * Year
   * Profit
+* Can we predict the rating (G,PG,PG-13,R) of the film given: 
+  * Director
+  * Genre
+  * Rating
+  * Year
+  * Profanity Count 
 
