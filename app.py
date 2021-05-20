@@ -18,6 +18,12 @@ app = Flask(__name__)
 
 @app.route("/")
 def home():
+        return (f"Welcome to the Data of Movies and Swear Words.<br/><br/>"
+                "Available Route:<br/>" 
+                "/api/v1.0/get_movie_swear<br/>")
+
+@app.route("/api/v1.0/get_movie_swear")
+def get_movie_swear():
         session = Session(engine)
         results = session.execute("SELECT * FROM movie_swear")
         response = [dict(row.items()) for row in results]
