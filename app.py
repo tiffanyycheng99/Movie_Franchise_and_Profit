@@ -6,7 +6,7 @@ from sqlalchemy import create_engine, func
 import json
 from flask import Flask, jsonify, render_template
 
-database_path = 'Resources/movie_swears.db'
+database_path = '../Resources/updated_movie_swears.db'
 engine = create_engine(f'sqlite:///{database_path}')
 Base = automap_base()
 Base.prepare(engine, reflect=True)
