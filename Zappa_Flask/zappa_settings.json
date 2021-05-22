@@ -3,8 +3,8 @@
         "app_function": "app.app",
         "aws_region": "us-west-1",
         "profile_name": "default",
-        "project_name": "movies-and-swea",
+        "project_name": "zappa-flask",
         "runtime": "python3.8",
-        "s3_bucket": "zappa-zkuxyd52s"
+        "s3_bucket": "zappa-q1mbj3bom"
     }
 }
