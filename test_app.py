@@ -24,7 +24,7 @@ def home():
 @app.route("/api/v1.0/get_movie_swear")
 def get_movie_swear():
         session = Session(eng)
-        results = session.execute("SELECT * FROM movieSwear")
+        results = session.execute('SELECT * FROM "movieSwear"')
         response = [dict(row.items()) for row in results]
         all_results = json.dumps(response)
 
