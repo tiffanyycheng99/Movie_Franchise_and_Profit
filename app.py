@@ -3,15 +3,15 @@ from sqlalchemy.ext.automap import automap_base
 from sqlalchemy.orm import Session
 from sqlalchemy import create_engine, func
 import json
-from flask import Flask, jsonify, render_template
+from flask import Flask
 
-database_path = '../Resources/updated_movie_swears.db'
-engine = create_engine(f'sqlite:///{database_path}')
+eng = create_engine("postgresql://postgres:postgres@movie-swear-db.cfgivq9r1u3j.us-west-2.rds.amazonaws.com:5432/moviesweardb")
+con = eng.connect()
 Base = automap_base()
-Base.prepare(engine, reflect=True)
-movie_swear = Base.classes.movie_swear
+Base.prepare(eng, reflect=True)
+movieSwear = Base.classes.movieSwear
 
-session = Session(engine)
+session = Session(eng)
 
 app = Flask(__name__)
 
@@ -23,8 +23,8 @@ def home():
 
 @app.route("/api/v1.0/get_movie_swear")
 def get_movie_swear():
-        session = Session(engine)
-        results = session.execute("SELECT * FROM movie_swear")
+        session = Session(eng)
+        results = session.execute('SELECT * FROM "movieSwear"')
         response = [dict(row.items()) for row in results]
         all_results = json.dumps(response)
 
