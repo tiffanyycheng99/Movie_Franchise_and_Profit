@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<title>Movie Magic Words</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link href='https://fonts.googleapis.com/css?family=Cairo|Rock Salt' rel='stylesheet'>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
+<style>
+body, html {height: 100%}
+body,h1,h2,h3,h4,h5,h6 {font-family: 'Cairo', sans-serif}
+footer {font-family: 'Rock Salt', sans-serif}
+.menu {display: none}
+.bgimg {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("http://www.animationkolkata.com/blog/wp-content/uploads/2017/10/Picture2.png");
+  min-height: 50%;
+}
+</style>
+<body>
+
+<!-- Navbar (sit on top) -->
+<div class="w3-top w3-hide-small">
+  <div class="w3-bar w3-xlarge w3-black w3-opacity w3-hover-opacity-off" id="myNavbar">
+    <a href={{ url_for("home") }} class="w3-bar-item w3-button">Home</a>
+    <a href={{ url_for("timeseries_viz") }} class="w3-bar-item w3-button">Time Series Dashboard</a>
+    <a href={{ url_for("contentrating_viz") }}  class="w3-bar-item w3-button">Directors Dashboard</a>
+    <a href={{ url_for("content_rating_ML") }} class="w3-bar-item w3-button">Content Rating ML</a>
+    <a href={{ url_for("breakeven_ML") }} class="w3-bar-item w3-button">Breakeven ML</a>
+    <a href={{ url_for("bonus_visuals") }} class="w3-bar-item w3-button">Bonus Visuals</a>
+  </div>
+</div>
+  
+<!-- Header with image -->
+<header class="bgimg w3-display-container w3-grayscale-min" id="home">
+  <div class="w3-display-bottomleft w3-padding">
+  </div>
+  <div class="w3-display-middle w3-center">
+    <span class="w3-text-white w3-hide-small w3-black w3-opacity-min" style="font-size:100px" >Time Series Dashboard</span>
+    <!-- <p><a href="#menu" class="w3-button w3-xxlarge w3-black">Let me see the menu</a></p> -->
+  </div>
+</header>
+
+<div class='tableauPlaceholder w3-auto' id='viz1621640913422' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;ye&#47;yeh_visuals&#47;TimeSeriesDashboard&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='yeh_visuals&#47;TimeSeriesDashboard' /><param name='tabs' value='yes' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;ye&#47;yeh_visuals&#47;TimeSeriesDashboard&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1621640913422');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.minWidth='1000px';vizElement.style.maxWidth='100%';vizElement.style.minHeight='850px';vizElement.style.maxHeight=(divElement.offsetWidth*0.75)+'px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.minWidth='1000px';vizElement.style.maxWidth='100%';vizElement.style.minHeight='850px';vizElement.style.maxHeight=(divElement.offsetWidth*0.75)+'px';} else { vizElement.style.width='100%';vizElement.style.minHeight='1150px';vizElement.style.maxHeight=(divElement.offsetWidth*1.77)+'px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+
+
+
+
+
+
+<!-- About Container -->
+<div class="w3-container w3-padding-64 w3-red w3-grayscale w3-xlarge" id="about">
+  <div class="w3-content">
+    <h1 class="w3-center w3-jumbo" style="margin-bottom:64px">Major Takeaway and Trends</h1>
+    <ul>
+      <li>The majority (550/746) of our data are films made between 1996 to 2013</li>
+      <li>Films that have under 20 million budget makes up most of the swear counts in the dataset. </li>
+      <li>On average, films without profanity generate higher profit than films with profanity</li>
+    </ul> 
+  </div>
+</div>
+
+
+
+
+
+
+<!-- Footer -->
+<footer class="w3-center w3-black w3-padding-48 w3-xxlarge">
+  <p>Movie Magic Words est. 2021</p>
+</footer>
+
+
+
+</body>
+</html>

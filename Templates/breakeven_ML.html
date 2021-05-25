@@ -22,11 +22,12 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Amatic SC", sans-serif}
 <!-- Navbar (sit on top) -->
 <div class="w3-top w3-hide-small">
   <div class="w3-bar w3-xlarge w3-black w3-opacity w3-hover-opacity-off" id="myNavbar">
-    <a href="#" class="w3-bar-item w3-button">HOME</a>
-    <a href="#menu" class="w3-bar-item w3-button">Time Series Dashboard</a>
-    <a href="#menu" class="w3-bar-item w3-button">Content Rating Dashboard</a>
-    <a href="#about" class="w3-bar-item w3-button">Content Rating ML</a>
-    <a href="#myMap" class="w3-bar-item w3-button">Breakeven ML</a>
+    <a href={{ url_for("home") }} class="w3-bar-item w3-button">Home</a>
+    <a href={{ url_for("timeseries_viz") }} class="w3-bar-item w3-button">Time Series Dashboard</a>
+    <a href={{ url_for("contentrating_viz") }}  class="w3-bar-item w3-button">Directors Dashboard</a>
+    <a href={{ url_for("content_rating_ML") }} class="w3-bar-item w3-button">Content Rating ML</a>
+    <a href={{ url_for("breakeven_ML") }} class="w3-bar-item w3-button">Breakeven ML</a>
+    <a href={{ url_for("bonus_visuals") }} class="w3-bar-item w3-button">Bonus Visuals</a>
   </div>
 </div>
   
