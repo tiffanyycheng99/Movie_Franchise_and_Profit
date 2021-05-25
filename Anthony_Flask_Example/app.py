@@ -21,7 +21,16 @@ from wtforms import Form, StringField, TextAreaField, validators
 class SubmissionForm(Form):
     title = StringField('Title', [validators.Length(min=2, max=30)])
     category = StringField('Category', [validators.Length(min=0, max=30)])
-    text = TextAreaField('Text', [validators.Length(min=1, max=500)])
+    # text = TextAreaField('Text', [validators.Length(min=1, max=500)])
+    duration = StringField('Duration', [validators.Length(min=2, max=30)])
+    contentRating = StringField('Content Rating', [validators.Length(min=2, max=30)])
+    gross = StringField('Gross', [validators.Length(min=2, max=30)])
+    SwearCount = StringField('SwearCount', [validators.Length(min=2, max=30)])
+    profanity = StringField('Profanity', [validators.Length(min=2, max=30)])
+
+
+
+
 
 Movie_ML_KEY=os.environ.get('API_KEY', "ZllqwGHyixSUlBpCUbYQTqJlzaJQ5XnTcemxOMRYQ946q+ck/OGnLY+XEg6b/tXKwAeWNNkQ6UyeW/L3gyQXUA==")
 Movie_URL = os.environ.get('URL', "https://ussouthcentral.services.azureml.net/workspaces/0c8068a6b23d4d5096f6671ba367b97c/services/b628a3ec7b46444588460dda21404182/execute?api-version=2.0&details=true")
@@ -119,15 +128,9 @@ def home():
                     [
                     "0",
                     "value",
-                    "value",
+                    form.title.data,
                     "0",
-                    "0",
-                    "0",
-                    "0",
-                    "value",
-                    "0",
-                    "value",
-                    "value",
+                    form.duration.data,
                     "0",
                     "0",
                     "value",
@@ -135,10 +138,15 @@ def home():
                     "value",
                     "value",
                     "0",
+                    "0",
+                    "value",
+                    "0",
                     "value",
                     "value",
+                    "0",
                     "value",
                     "0",
+                    f'{form.contentRating.data}',
                     "0",
                     "0",
                     "0",
@@ -171,9 +179,10 @@ def home():
                     "0",
                     "0",
                     "0",
+                    form.gross.data,
                     "0",
                     "0",
-                    "0",
+                    form.SwearCount.data,
                     "0",
                     "0",
                     "0",
@@ -242,7 +251,7 @@ def home():
                     "0",
                     "0",
                     "0",
-                    "0"
+                    form.profanity.data
                     ]
                 ]
                 }
@@ -268,7 +277,7 @@ def home():
             # result = json.dumps(result, indent=4, sort_keys=True)
             return render_template(
                 'result.html',
-                title="This is the result from AzureML running our example Student Brain Weight Prediction:",
+                title="This is the result from AzureML running our algorithm to predict whether a film will breakeven:",
                 result=result)
 
         # An HTTP error
@@ -329,7 +338,8 @@ def do_something_pretty(jsondata):
     # Build a placeholder for the cluster#,distance values
     #repstr = '<tr><td>%d</td><td>%s</td></tr>' * (valuelen-1)
     # print(repstr)
-    output='For a brain with the size of : '+value[4]+ "<br/>Our Algorithm would calculate the weight to be: "+ value[2]
+    output=' Director : '+value[0]+ "<br/>  Duration:"+value[1]+ 'Minutes'"<br/>  Content Rating:"+value[2]+ "<br/>  Swear Count:"+value[5]+ "<br/>  Gross Revenue:"'$'+value[4]+ "<br/>  Profanity:"+value[7]+"<br/>Our Algorithm would calculate the probability of breaking even to be: "+ value[8]
+            
     # Build the entire html table for the results data representation
     #tablestr = 'Cluster assignment: %s<br><br><table border="1"><tr><th>Cluster</th><th>Distance From Center</th></tr>'+ repstr + "</table>"
     #return tablestr % data
