@@ -1,0 +1,62 @@
+{% extends "content_rating_ML.html" %}
+
+{% block content %}
+
+<div class="w3-container w3-padding-64 w3-red w3-grayscale w3-xlarge" id="Result">
+    <div class="w3-content">
+<h2>Predict the content rating of a movie</h2>
+<form method=post>
+    <dl>
+        <p>
+            <h3>Director</h3>
+            Enter the Director's name<br/><br/>
+            {{form.title}}
+        </p>
+
+        <p>
+            <h3>Duration</h3>
+            Enter the Duration of the film (in minutes)<br/><br/>
+            {{form.duration}}
+        </p>
+        <p>
+            <h3>Actor 1 Name</h3>
+            Enter the Actor 1 of the film <br/><br/>
+            {{form.actor1name}}
+        </p>
+        
+        <p>
+            <h3>Release Year</h3>
+            Enter the yeare the movie is released<br/><br/>
+            {{form.titleyear}}
+        </p>
+
+        <p>
+            <h3>Gross Revenue</h3>
+            Enter the Gross Revenue of the film (in millions)<br/><br/>
+            {{form.gross}}
+        </p>
+       
+        <p>
+            <h3>IMDB Score</h3>
+            Enter the IMDB Score of the film (out of 10)<br/><br/>
+            {{form.imdbScore}}
+        </p>
+
+        <p>
+            <h3>Swear Count</h3>
+            Enter number of times someone swears in the film<br/><br/>
+            {{form.SwearCount}}
+        </p>
+
+        <p>
+            <h3>Profanity</h3>
+            Was there profanity in the film? (True or False)<br/><br/>
+            {{form.profanity}}
+        </p>
+
+    </dl>
+    <p><input type="submit" value="submit"></p>
+ </form>
+</div>
+</div>
+{% endblock %}
