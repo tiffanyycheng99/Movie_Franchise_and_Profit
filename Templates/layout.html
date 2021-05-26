@@ -20,6 +20,17 @@ footer {font-family: 'Rock Salt', sans-serif}
   background-position: center center;
 }
 </style>
+
+<!-- Header with image -->
+<header class="bgimg w3-display-container w3-grayscale-min" id="home">
+    <div class="w3-display-bottomleft w3-padding">
+    </div>
+    <div class="w3-display-middle w3-center">
+      <span class="w3-text-white w3-hide-small w3-black w3-opacity-min" style="font-size:100px">Breakeven ML</span>
+    </div>
+</header>
+
+
 <body>
 <!-- Navbar (sit on top) -->
 <div class="w3-top w3-hide-small">
@@ -32,29 +43,21 @@ footer {font-family: 'Rock Salt', sans-serif}
     <a href={{ url_for("bonus_visuals") }} class="w3-bar-item w3-button">Bonus Visuals</a>
   </div>
 </div>
-  
-<!-- Header with image -->
-<header class="bgimg w3-display-container w3-grayscale-min" id="home">
-  <div class="w3-display-bottomleft w3-padding">
-  </div>
-  <div class="w3-display-middle w3-center">
-    <span class="w3-text-white w3-hide-small w3-black w3-opacity-min" style="font-size:100px">Breakeven ML</span>
-  </div>
-</header>
-
-<!-- About Container -->
-<div class="w3-container w3-padding-64 w3-red w3-grayscale w3-xlarge" id="about">
-  {% block content %}{% endblock %}
-  <hr />
-  
-  </div>
-</div>
 
 
-<!-- Footer -->
-<footer class="w3-center w3-black w3-padding-48 w3-xxlarge">
-  <p>Movie Magic Words est. 2021</p>
-</footer>
+
+    <div class="container body-content">
+        {% block content %}{% endblock %}
+        <hr />
+        <footer>
+            <p>&copy; {{ year }} - My Flask Application</p>
+        </footer>
+    </div>
+
+    <script src="/static/scripts/jquery-1.10.2.js"></script>
+    <script src="/static/scripts/bootstrap.js"></script>
+    <script src="/static/scripts/respond.js"></script>
+    {% block scripts %}{% endblock %}
 
 </body>
 </html>
