@@ -43,12 +43,18 @@ footer {font-family: 'Rock Salt', sans-serif}
 </header>
 
 <!-- About Container -->
-<div class="w3-container w3-padding-64 w3-red w3-grayscale w3-xlarge" id="about">
+<div class="container body-content">
   {% block content %}{% endblock %}
   <hr />
-  
-  </div>
+  <footer>
+      <p>&copy; {{ year }} - My Flask Application</p>
+  </footer>
 </div>
+
+<script src="/static/scripts/jquery-1.10.2.js"></script>
+<script src="/static/scripts/bootstrap.js"></script>
+<script src="/static/scripts/respond.js"></script>
+{% block scripts %}{% endblock %}
 
 
 <!-- Footer -->
