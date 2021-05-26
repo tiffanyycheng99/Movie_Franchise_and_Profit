@@ -1,14 +1,22 @@
 {% extends "breakeven_ML.html" %}
 
 {% block content %}
-
+<div class="w3-container w3-padding-64 w3-red w3-grayscale w3-xlarge" id="Result">
+    <div class="w3-content">
 <h3>{{ title }}</h3>
-
+<br>
 {{ result|safe }}
 <br>
 <br>
 <h3>Snapshot from AzureML interface</h3>
 This was implemented using Azure ML Studio.<br /><br />
-<img src="/static/images/Azure_ML_Aaron.PNG" />
+<!-- <img src="/static/images/Azure_ML_Aaron.PNG" /> -->
+
+<div class = 'col-md-7 w3-center' id="prediction">
+    <img src = "https://filmdaily.co/wp-content/uploads/2021/01/datamovie-lede-1300x733.jpg" class="img-fluid w3-center"/>
+</div>
+
+    </div>
+</div>
 
 {% endblock %}
