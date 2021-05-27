@@ -28,7 +28,8 @@ This project is built as a website with interactive visualizations using Tableau
 
 ### Methodology: Key Subject "Magic" Words
 ![Key Subject "Magic" Swear Words](https://bicontent.businessinsurance.com/4932e90f-7e6c-4bad-90b9-85f79c7723fd.jpg)
-As varied and complex is the English Language, we identify the following swear words as our key subjects, due to their notoriety and commonality:
+
+As varied and complex the English Language may be, we identify the following swear words as our key subjects, due to their notoriety and commonality:
 * F*ck
 * B*tch
 * Sh*t
