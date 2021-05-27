@@ -36,7 +36,7 @@ As varied and complex the English Language may be, we identify the following swe
 
 ### Data
 
-The data sources of this project are:
+The data sources of the project's script analysis are from the following:
 * [The Internet Movie script Database](https://imsdb.com/all-scripts.html)
 * [IMDB 5000 Movie Dataset on Kaggle](https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset)
 
