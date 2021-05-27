@@ -10,7 +10,7 @@ But what of these "magical words" and their place on the big screen? Has the inc
 ### Questions
 This project is built as a website with interactive visualizations using Tableau and machine learning components using Azure ML. Our key questions we hope to answer include the following:
 
-* Are there more movies with higher Profanity counts in recent years?
+* Are there more movies with higher profanity counts in recent years?
 * How does profanity impact profit or budgets?
 * Which directors are notorious for including profanity?
 * Can we predict if a movie can breakeven (defined by profit - budget) based on the following:
