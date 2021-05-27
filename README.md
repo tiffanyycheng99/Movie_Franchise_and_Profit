@@ -36,8 +36,8 @@ As varied and complex is the English Language, we identify the following swear w
 ### Data
 
 The data sources of this project are:
-* ![The Internet Movie script Database](https://imsdb.com/all-scripts.html)
-* ![IMDB 5000 Movie Dataset on Kaggle](https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset)
+* [The Internet Movie script Database](https://imsdb.com/all-scripts.html)
+* [IMDB 5000 Movie Dataset on Kaggle](https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset)
 
 #### Web Scraping and Data Cleaning
 
