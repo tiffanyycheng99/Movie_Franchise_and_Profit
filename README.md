@@ -62,13 +62,21 @@ After data processing, the movie, scripts, and merged datasets were loaded into 
 ## Visualizations
 
 ### Time Series
+Utilizing the dataset, shows various visualization of how the use of swear words has changed over time in film. Within the last 10 years, there has been an increase in the presence of swear in various genres including thriller, comedy, and action. Visualizations also include if a film broke even based on swear count. These are also useful to reference for application of the ML portion.
 ### Directors
+An analysis on directors was done to see what directors had more films with greater swear words per minute, the director's that had their films at least break even, directors' most common swear word from our selected three, and the directors that used the most swear words in our dataset. These are also useful to reference for application of the ML portion.
+### Bonus
+Includes visualizations to aid users in changing aspects in ML to produce different results. Mainly focuses on profanity, genre, rating, and popularity. 
 
 ## Machine Learning
+With Azure, created two machine learning models with accuracies between 70 and 80% for user application on whether a film breaks even and content rating of film.
 ### Breakeven
+Insert director's name, duration of film, content rating, gross revenue, swear count, and true or false to indicate use of profanity to get a percentage on the likelihood that a film will break even or not with your above criteria.
 ### Content Rating
+Insert director's name, duration of film, an actor's name, movie release year, gross revenue, iMDb score, swear count, and true or false to indicate use of profanity to get the content rating of a film with your above criteria.
 
 ## Key Takeaways
+Films have become more likely to use profanity and succeed with praises from audience as time has progressed. This indicates that swear words have grown in their use in American colloquialism.
 
 
 
