@@ -14,17 +14,18 @@ This project is built as a website with interactive visualizations using Tableau
 * How does profanity impact profit or budgets?
 * Which directors are notorious for including profanity?
 * Can we predict if a movie can breakeven (defined by profit - budget) based on the following:
-  * Profanity Count
   * Director
-  * Genre
-  * Rating
-  * Year
+  * Duration
+  * Content Rating
+  * Gross Revenue
+  * Swear Count
 * Can we predict the movie's rating (G,PG,PG-13,R) of the film given: 
   * Director
-  * Genre
-  * Rating
-  * Year
-  * Profanity Count 
+  * Duration
+  * Content Rating
+  * Gross Revenue
+  * IMDB Score
+  * Swear Count
 
 ### Methodology: Key Subject "Magic" Words
 ![Key Subject "Magic" Swear Words](https://bicontent.businessinsurance.com/4932e90f-7e6c-4bad-90b9-85f79c7723fd.jpg)
