@@ -118,7 +118,7 @@ a {
     <h1 class="w3-center w3-jumbo" style="margin-bottom:64px">Methodology</h1>
     <p>We used data found on <a href="https://imsdb.com/all-scripts.html" target="_blank">IMSDb</a> and 
       <a href="https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset" target="_blank">IMDB 5000 Movie Dataset</a> from Kaggle to perform our analysis. 
-      Beautiful Soup was used to parse and save all available scripts on IMSDb as a CSV file. Indivudal script files were then parsed through a function that counted the frequency
+      Beautiful Soup was used to parse and save all available scripts on IMSDb as a CSV file. Individual script files were then parsed through a function that counted the frequency
       of f*ck, b*tch, sh*t, and total swear words. We removed duplicate records from the movie dataset and split up the genre variable into 
       a series of dummy variables representing each individual genre. The two datasets were then merged to create the combined dataframe that contains movie and script information.
     </p>
@@ -157,6 +157,10 @@ a {
         <tr>
           <td>/api/v1.0/bonus_visuals</td>
           <td>Bonus visuals on swear words and movies</td>
+        </tr>
+        <tr>
+          <td>/api/v1.0/get_movie_swear</td>
+          <td>API Data</td>
         </tr>
       </table>
   </div>
