@@ -12,7 +12,7 @@ This project is built as a website with interactive visualizations using Tableau
 
 * Are there more movies with higher Profanity counts in recent years?
 * How does profanity impact profit or budgets?
-* Which directors are notorious for including profanity? Does this impact the Director's success via movies break even?
+* Which directors are notorious for including profanity?
 * Can we predict if a movie can breakeven (defined by profit - budget) based on the following:
   * Profanity Count
   * Director
