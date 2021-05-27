@@ -34,7 +34,7 @@ As varied and complex the English Language may be, we identify the following swe
 * B*tch
 * Sh*t
 
-### Data
+## Data
 
 The data sources of the project's script analysis are from the following:
 * [The Internet Movie script Database](https://imsdb.com/all-scripts.html)
@@ -44,8 +44,19 @@ The data sources of the project's script analysis are from the following:
 
 In order to perform our profanity script analysis, Beautiful Soup was used to parse and save the available movie scripts from IMDSB site into our all_script.csv.  Individual script files were then parsed through a function that counted the frequency of each of chosen key swear words (including variations of) as well as a total swear words counter. Duplicate records were removed from the movie_metadata.csv and the genre list values were split up across multiple new genre columns into a series of dummy  boolean variables. The two datasets were then merged to create the combined dataframe that contains movie and script information.
 
-#### API
+## API
 
-After data processing, the movie, scripts, and merged datasets were loaded into a SQLite database using SQLAlchemy and Flask to create an API that returns the datasets in JSON format.
+After data processing, the movie, scripts, and merged datasets were loaded into a SQLite database using SQLAlchemy and Flask to create an API that returns the datasets in JSON format. In addition to the route to fetch data, the rest of our website application can be accessed locally through the following routes:
+
+|Route|Description|
+|-|-|
+|/api/v1.0/timeseries_viz|Time Series Interactive Dashboard|
+|/api/v1.0/contentrating_viz|Director's Interactive Dashboard|
+|/api/v1.0/content_rating_ML|Machine Learning Model that predicts content Rating|
+|/api/v1.0/breakeven_ML|Machine Learning Model that predicts movie will breakeven|
+|/api/v1.0/bonus_visuals|Bonus visuals on swear words and movies|
+|/api/v1.0/get_movie_swear	|API Data for Merged movie_swear dataset in JSON format
+
+
 
 
