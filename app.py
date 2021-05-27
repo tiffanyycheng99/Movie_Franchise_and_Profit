@@ -615,7 +615,7 @@ def do_something_pretty(jsondata):
     # Build a placeholder for the cluster#,distance values
     #repstr = '<tr><td>%d</td><td>%s</td></tr>' * (valuelen-1)
     # print(repstr)
-    output="<h2>You've entered: </h2>" + ' <br/>Director : '+value[0]+ "<br/>  Duration: "+value[1]+ ' Minutes'"<br/>  Content Rating: "+value[2]+ "<br/>  Swear Count: "+value[5]+ "<br/>  Gross Revenue (in Millions USD): "'$'+value[4]+ "<br/>  Profanity: "+value[7]+"<br/><br/>Our Algorithm would calculate the probability of breaking even to be: <h1>"+ value[8]  +   "</h1>"
+    output="<h2>You've entered: </h2>" + ' <br/><strong>Director</strong>: '+value[0]+ "<br/>  <strong>Duration</strong>: "+value[1]+ ' Minutes'"<br/>  <strong>Content Rating</strong>: "+value[2]+ "<br/> <strong>Swear Count</strong>: "+value[5]+ "<br/>  <strong>Gross Revenue (in Millions USD)</strong>: "'$'+value[4]+ "<br/>  <strong>Profanity</strong>: "+value[7]+"<br/><br/>Our Algorithm would calculate the probability of breaking even to be: <h1>"+ value[8]  +   "</h1>"
             
     # Build the entire html table for the results data representation
     #tablestr = 'Cluster assignment: %s<br><br><table border="1"><tr><th>Cluster</th><th>Distance From Center</th></tr>'+ repstr + "</table>"
@@ -643,7 +643,7 @@ def do_something_pretty2(jsondata):
     # Build a placeholder for the cluster#,distance values
     #repstr = '<tr><td>%d</td><td>%s</td></tr>' * (valuelen-1)
     # print(repstr)
-    output= "<h2>You've entered: </h2>" + ' <br/>Director : '+value[0]+ "<br/>  Duration: "+value[1]+ ' Minutes' + '<br/> Actor 1 Name : ' + value[2] +  '<br/> Release Year : ' + value[4]+ "<br/>  Swear Count: "+value[5]+ "<br/>  Gross Revenue (in Millions USD): "'$'+value[6]+  '<br/> IMDB Score : ' + value[5] + "<br/>  Profanity Count: "+value[7] + ' <h2><br/><br/>Our Prediction: </h2>'+ 'G: '+ value[10]+ "<br/>  PG: "+value[13] + "<br/>  PG-13: "+value[14] + "<br/>  R: "+value[15] +"<br/> <br/> <h1>Our model predicts the content rating as: " + value[17]   +   "</h1>"
+    output= "<h2>You've entered: </h2>" + ' <br/><strong>Director</strong>: '+  value[0] +"<br/> <strong>Duration</strong>: "+value[1]+ ' Minutes' + '<br/> <strong>Actor 1 Name</strong>: ' + value[2] +  '<br/> <strong>Release Year</strong>: ' + value[4]+ "<br/>  <strong>Swear Count</strong>: "+value[5]+ "<br/>  <strong>Gross Revenue (in Millions USD)</strong>: "'$'+value[6]+  '<br/> <strong>IMDB Score</strong>: ' + value[5] + "<br/>  <strong>Profanity Count</strong>: "+value[7] + ' <h2><br/><br/>Our Prediction: </h2>'+ '<strong>G</strong>: '+ value[10]+ "<br/>  <strong>PG</strong>: "+value[13] + "<br/>  <strong>PG-13</strong>: "+value[14] + "<br/>  <strong>R</strong>: "+value[15] +"<br/> <br/> <h1>Our model predicts the content rating as: " + value[17]   +   "</h1>"
     # Build the entire html table for the results data representation
     #tablestr = 'Cluster assignment: %s<br><br><table border="1"><tr><th>Cluster</th><th>Distance From Center</th></tr>'+ repstr + "</table>"
     #return tablestr % data
