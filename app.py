@@ -1,8 +1,8 @@
-# import sqlalchemy
-# from sqlalchemy.ext.automap import automap_base
-# from sqlalchemy.orm import Session
-# from sqlalchemy import create_engine, func
-# import json
+import sqlalchemy
+from sqlalchemy.ext.automap import automap_base
+from sqlalchemy.orm import Session
+from sqlalchemy import create_engine, func
+import json
 
 
 """
@@ -21,6 +21,14 @@ from flask import render_template, request, redirect
 #testing
 # from FlaskAppAML.forms import SubmissionForm
 from wtforms import Form, StringField, TextAreaField, validators
+
+database_path = 'Resources/movieSwears.db'
+engine = create_engine(f'sqlite:///{database_path}')
+Base = automap_base()
+Base.prepare(engine, reflect=True)
+movie_swear = Base.classes.movie_swear
+
+session = Session(engine)
 
 
 class SubmissionForm(Form):
@@ -648,6 +656,17 @@ def do_something_pretty2(jsondata):
     #tablestr = 'Cluster assignment: %s<br><br><table border="1"><tr><th>Cluster</th><th>Distance From Center</th></tr>'+ repstr + "</table>"
     #return tablestr % data
     return output
+
+@app.route("/api/v1.0/get_movie_swear")
+def get_movie_swear():
+        session = Session(engine)
+        results = session.execute("SELECT * FROM movie_swear")
+        response = [dict(row.items()) for row in results]
+        all_results = json.dumps(response)
+
+        session.close()
+        movie_swear_json = all_results
+        return(movie_swear_json)
 
 
 if __name__ == '__main__':
