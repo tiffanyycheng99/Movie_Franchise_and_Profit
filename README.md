@@ -59,5 +59,16 @@ After data processing, the movie, scripts, and merged datasets were loaded into 
 |/api/v1.0/get_movie_swear	|API Data for Merged movie_swear dataset in JSON format
 
 
+## Visualizations
+
+### Time Series
+### Directors
+
+## Machine Learning
+### Breakeven
+### Content Rating
+
+## Key Takeaways
+
 
 
