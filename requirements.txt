@@ -1,7 +1,6 @@
 Flask<1
 wtforms==2.1
 requests==2.11.1
-json
 urllib.request
 os
 datetime
